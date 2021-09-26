@@ -3,10 +3,10 @@ var mysql = require('mysql');
 
 var mysql_pool= mysql.createPool({
     connectionLimit : 100,
-      host : 'localhost',
-      database : 'mtc',
-      user : 'root',
-      password : 'afp123$$',
+      host : 'db4free.net',
+      database : 'servidormtc',
+      user : 'servidormtc',
+      password : 'Afp123$$',
       port:3306,
       
   });
