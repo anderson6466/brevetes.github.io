@@ -4,10 +4,10 @@
  * Module dependencies.
  */
 const fs = require('fs');
-var https = require('https');
+//var https = require('https');
 var app = require('../app');
 var debug = require('debug')('untitled:server');
-//var http = require('http');
+ var http = require('http');
 
 /**
  * Get port from environment and store in Express.
@@ -20,16 +20,16 @@ app.set('port', port);
 /**
  * Create HTTP server.
  */
-
+/*
 const server=https.createServer({ 
   key: fs.readFileSync('C:/Users/Administrador.WIN-UM4JNBU5PQ1.000/Desktop/Proyectos/brevetes/certificadobrevete/greenlock.d/live/touring.ml/privkey.pem'),
    cert: fs.readFileSync('C:/Users/Administrador.WIN-UM4JNBU5PQ1.000/Desktop/Proyectos/brevetes/certificadobrevete/greenlock.d/live/touring.ml/cert.pem') ,
    ca:fs.readFileSync('C:/Users/Administrador.WIN-UM4JNBU5PQ1.000/Desktop/Proyectos/brevetes/certificadobrevete/greenlock.d/live/touring.ml/chain.pem') 
   }, app); 
 
-
+*/
  
-//var server = http.createServer(app);
+ var server = http.createServer(app);
 
 
 
