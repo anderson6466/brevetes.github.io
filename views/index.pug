@@ -5,7 +5,7 @@ block content
         .welcome
             h2.welcome__title SIMULACRO DE PREGUNTAS PARA LA EVALUACIÓN DE CONOCIMIENTOS EN LA CONDUCCIÓN PARA POSTULANTES A LICENCIAS DE CONDUCIR
             p.welcome__text El examen contiene 40 preguntas y tiene una duración de 40 minutos, y para su aprobación, el postulante deberá de acertar por lo menos treinta y cinco (35) respuestas de las cuarenta (40) preguntas. Es importante realizar este examen en completo silencio para evitar distracciones.
-            <img style="width:100%;"  src="https://touring.ml:7000/SIMULACRO-MTC-Online.png"   >
+            <img style="width:100%;"  src="https://brevetes.herokuapp.com/SIMULACRO-MTC-Online.png"   >
             
            
             
@@ -52,7 +52,7 @@ block content
                 ],
                 callback: function (data) {
                     if (!data) {
-                        location.href = "https://touring.ml:7000/";
+                        location.href = "https://brevetes.herokuapp.com/";
                     } else {
                         user =data.user
                         pass = data.password;
