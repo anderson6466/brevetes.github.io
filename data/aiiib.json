@@ -1,0 +1,1001 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es porcentaje general para la tolerancia por eje o conjunto de ejes?",
+      "image": "",
+      "alternatives": {
+        "a": "3%",
+        "b": "5%",
+        "c": "8%",
+        "d": "4%"
+      },
+      "response": "b"
+    },
+    {
+      "id": 2,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es el porcentaje de la tolerancia en el control del ancho de la mercancía transportada?",
+      "image": "",
+      "alternatives": {
+        "a": "5% del ancho máximo del vehículo",
+        "b": "3% del ancho del vehículo",
+        "c": "8% del ancho máximo del vehículo",
+        "d": "4% del ancho mínimo del vehículo"
+      },
+      "response": "a"
+    },
+    {
+      "id": 3,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es el porcentaje general de la tolerancia en el control de la altura de la mercancía transportada?",
+      "image": "",
+      "alternatives": {
+        "a": "5% de la altura máxima permitida del vehículo.",
+        "b": "3% de la altura máxima permitida del vehículo.",
+        "c": "4% de la altura máxima de la carrocería del vehículo",
+        "d": "6% de la altura máxima permitida del vehículo"
+      },
+      "response": "a"
+    },
+    {
+      "id": 4,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es la sanción al conductor por incurrir en supuestos de habitualidad por segunda vez?",
+      "image": "",
+      "alternatives": {
+        "a": "Suspensión de la licencia de conducir por un período de seis (6) meses",
+        "b": "Suspensión de la licencia conducir por un período de un (1) año ",
+        "c": "Cancelación de la licencia e inhabilitación definitiva para obtener una nueva",
+        "d": "El doble de la multa que corresponda a la infracción"
+      },
+      "response": "b"
+    },
+    {
+      "id": 5,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A qué se le denomina capacidad de carga útil?",
+      "image": "",
+      "alternatives": {
+        "a": "Carga máxima que puede transportar un vehículo en función de su tara.",
+        "b": "Capacidad técnica máxima del camión determinada por el fabricante.",
+        "c": "Carga máxima que puede transportar un vehículo, sin exceder el peso bruto vehicular indicado por el fabricante.",
+        "d": "Ninguna de los anteriores"
+      },
+      "response": "c"
+    },
+    {
+      "id": 6,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A qué se le denomina capacidad de carga legal?",
+      "image": "",
+      "alternatives": {
+        "a": "Carga máxima que puede transportar un vehículo sin exceder peso bruto vehicular.",
+        "b": "Carga máxima que puede transportar un vehículo en función de su tara.",
+        "c": "Capacidad técnica máxima del camión determinada por el fabricante.",
+        "d": "Ninguna de los anteriores"
+      },
+      "response": "b"
+    },
+    {
+      "id": 7,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A qué se le denomina Peso Bruto Vehicular?",
+      "image": "",
+      "alternatives": {
+        "a": "Peso total del vehículo incluyendo tara más capacidad de carga legal.",
+        "b": "Peso total del vehículo incluyendo la tara pero no la capacidad de carga.",
+        "c": "Peso total del vehículo determinado por el fabricante que incluye la tara y la capacidad de carga.",
+        "d": "Ninguna de los anteriores"
+      },
+      "response": "c"
+    },
+    {
+      "id": 8,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A qué se le denomina Peso Bruto Vehicular Legal?",
+      "image": "",
+      "alternatives": {
+        "a": "Peso total del vehículo incluyendo tara más capacidad de carga legal.",
+        "b": "Peso total del vehículo determinado por el fabricante.",
+        "c": "Peso del vehículo incluyendo tara y capacidad de carga.",
+        "d": "Ninguna de los anteriores"
+      },
+      "response": "a"
+    },
+    {
+      "id": 9,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A qué se le denomina Peso Bruto Vehicular Combinado?",
+      "image": "",
+      "alternatives": {
+        "a": "Peso total del vehículo determinado por el fabricante.",
+        "b": "Peso bruto vehicular de la combinación camión más remolque(s).",
+        "c": "Peso bruto vehicular legal del camión más remolque(s), de acuerdo a lo establecido en reglamento  ",
+        "d": "Ninguna de los anteriores"
+      },
+      "response": "b"
+    },
+    {
+      "id": 10,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A qué se le denomina Peso Bruto Vehicular Combinado Legal?",
+      "image": "",
+      "alternatives": {
+        "a": "Peso bruto vehicular de la combinación remolcador más remolque(s), según su configuración vehicular.",
+        "b": "Peso bruto vehicular de la combinación remolque(s) más semiremolque(s), según su configuración vehicular.",
+        "c": "Peso bruto vehicular legal del camión más remolque(s), de acuerdo a lo establecido en reglamento.",
+        "d": "Ninguna de los anteriores"
+      },
+      "response": "a"
+    },
+    {
+      "id": 11,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Para qué se emplea la quinta rueda?",
+      "image": "",
+      "alternatives": {
+        "a": "Como repuesto de las llantas del vehículo.",
+        "b": "Para el acople del remolque",
+        "c": "Para el acople del semirremolque.",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "c"
+    },
+    {
+      "id": 12,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "La definición: El conjunto de elementos que hacen posible que el vehículo pueda operarse usando combustible líquido y GNV simultáneamente) corresponde a:",
+      "image": "",
+      "alternatives": {
+        "a": "Sistema bi-combustible",
+        "b": "Sistema Dual",
+        "c": "Sistema Simultaneo",
+        "d": "ninguna de las anteriores"
+      },
+      "response": "b"
+    },
+    {
+      "id": 13,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es la profundidad mínima en las ranuras principales situadas en la zona central de la banda de rodamiento del neumático para un vehículo de categoría N3?",
+      "image": "",
+      "alternatives": {
+        "a": "2.0mm",
+        "b": "1.6mm",
+        "c": "0.8mm",
+        "d": "1.8mm"
+      },
+      "response": "a"
+    },
+    {
+      "id": 14,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es la tolerancia del peso bruto vehicular máximo?",
+      "image": "",
+      "alternatives": {
+        "a": "2%",
+        "b": "5%",
+        "c": "3%",
+        "d": "8%"
+      },
+      "response": "c"
+    },
+    {
+      "id": 15,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "El peso bruto máximo permitido en el Sistema Nacional de Transporte Terrestre es de:",
+      "image": "",
+      "alternatives": {
+        "a": "50 toneladas.",
+        "b": "48 toneladas.",
+        "c": "46 toneladas.",
+        "d": "45 toneladas"
+      },
+      "response": "b"
+    },
+    {
+      "id": 16,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Qué definición corresponde a los vehículos de categoría N3?",
+      "image": "",
+      "alternatives": {
+        "a": "Vehículos de peso bruto vehicular mayor a 12 toneladas.",
+        "b": "Vehículos de peso bruto vehicular mayor a 3,5 toneladas hasta 12 toneladas.",
+        "c": "Vehículos de peso bruto vehicular menor o igual a 12 toneladas.",
+        "d": "Vehículos de peso bruto vehicular de 8 toneladas o menos."
+      },
+      "response": "a"
+    },
+    {
+      "id": 17,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A qué se denomina mercancía especial?",
+      "image": "",
+      "alternatives": {
+        "a": "Mercancía que por sus características puede ser fraccionada sin afectar su naturaleza.",
+        "b": "Mercancía que, por sus características, no puede ser fraccionada sin afectar su naturaleza.",
+        "c": "Mercancía peligrosa y/o indivisible que, para ser transportada, excede los límites de pesos y/o medidas permitidas.",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "c"
+    },
+    {
+      "id": 18,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "Para vehículos de la categoría N, la altura de la carrocería no podrá superar en más del _____ de la altura de la cabina original del vehículo",
+      "image": "",
+      "alternatives": {
+        "a": "50%",
+        "b": "45%",
+        "c": "40%",
+        "d": "60%"
+      },
+      "response": "a"
+    },
+    {
+      "id": 19,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿El vehículo con carga puede circular con el eje retráctil retraído por el Sistema Nacional de Transporte Terrestre?",
+      "image": "",
+      "alternatives": {
+        "a": "Si",
+        "b": "No, está prohibido.",
+        "c": "Solo cuando no tiene carga pesada",
+        "d": "Depende de los ejes o conjunto de ejes del vehículo"
+      },
+      "response": "b"
+    },
+    {
+      "id": 20,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es una medida preventiva que puede aplicar la autoridad competente, según en el Reglamento Nacional de Vehículos?",
+      "image": "",
+      "alternatives": {
+        "a": "Retención de la licencia de conducir.",
+        "b": "Retención de mercancía.",
+        "c": "Internamiento del vehículo.",
+        "d": "a y c son correctas."
+      },
+      "response": "c"
+    },
+    {
+      "id": 21,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Con qué porcentaje adicional se sanciona la reincidencia en la comisión de infracciones muy graves?",
+      "image": "",
+      "alternatives": {
+        "a": "50%",
+        "b": "30%",
+        "c": "40%",
+        "d": "20%"
+      },
+      "response": "a"
+    },
+    {
+      "id": 22,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "La licencia de conducir de Clase A- Categoría III B tendrá una vigencia de…..",
+      "image": "",
+      "alternatives": {
+        "a": "3 años",
+        "b": "5 años",
+        "c": "8 años",
+        "d": "2 años"
+      },
+      "response": "a"
+    },
+    {
+      "id": 23,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "Para conducir vehículos de transporte terrestre de materiales peligrosos, ____ necesario contar con la licencia que corresponda a la categoría del vehículo que transporta los materiales peligrosos.",
+      "image": "",
+      "alternatives": {
+        "a": "No es.",
+        "b": "Es",
+        "c": "Depende de la mercancía que transporta",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "b"
+    },
+    {
+      "id": 24,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es la antigüedad mínima contando con licencia de Clase A- Categoría II B que se requiere para obtener la licencia de Clase A categoría III B por recategorización?",
+      "image": "",
+      "alternatives": {
+        "a": "2 años.",
+        "b": "4 años.",
+        "c": "5 años",
+        "d": "No existe antigüedad mínima"
+      },
+      "response": "a"
+    },
+    {
+      "id": 25,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "La licencia de conducir de clase A categoría III B permite conducir los vehículos señalados en la categoría:",
+      "image": "",
+      "alternatives": {
+        "a": "I, II A y II B",
+        "b": "III",
+        "c": "IV",
+        "d": "I y II B"
+      },
+      "response": "a"
+    },
+    {
+      "id": 26,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál no es una característica de diseño para el neumático de un vehículo?",
+      "image": "",
+      "alternatives": {
+        "a": "Rango de carga",
+        "b": "Rango de velocidad",
+        "c": "Rango de ancho",
+        "d": "Perfil"
+      },
+      "response": "c"
+    },
+    {
+      "id": 27,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cómo se le llama el elemento que permite conectar el tracto camión (o remolcador) al semiremolque?",
+      "image": "",
+      "alternatives": {
+        "a": "Quinta rueda",
+        "b": "sujetador",
+        "c": "acople",
+        "d": "cadena"
+      },
+      "response": "a"
+    },
+    {
+      "id": 28,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A qué se llama 'capacidad' del eje de un vehículo?",
+      "image": "",
+      "alternatives": {
+        "a": "Es la carga máxima permitida que puede soportar el eje de un vehículo",
+        "b": "Es la carga máxima que puede soportar el eje de un vehículo",
+        "c": "La capacidad de carga de todos los ejes de un vehículo",
+        "d": "La carga máxima incluyendo el peso del vehículo"
+      },
+      "response": "a"
+    },
+    {
+      "id": 29,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Qué elemento del sistema de suspensión no corresponde para ser usado en semirremolques?",
+      "image": "",
+      "alternatives": {
+        "a": "Muelles de hoja",
+        "b": "neumática",
+        "c": "resorte",
+        "d": "brazo de torsión"
+      },
+      "response": "c"
+    },
+    {
+      "id": 30,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Qué elemento de seguridad principal se debe usar al 'jalar' un remolque?",
+      "image": "",
+      "alternatives": {
+        "a": "cadena",
+        "b": "cable",
+        "c": "luces perimétricas",
+        "d": "triángulo"
+      },
+      "response": "a"
+    },
+    {
+      "id": 31,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "El Reglamento Nacional de Administración de Transporte regula:",
+      "image": "",
+      "alternatives": {
+        "a": "El servicio de transporte terrestre y el tránsito.",
+        "b": "El servicio de transporte terrestre de personas y mercancías.",
+        "c": "Únicamente el servicio de transporte de mercancías.",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "b"
+    },
+    {
+      "id": 32,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "Con relación a las obligaciones del conductor del servicio de transporte terrestre. Marque la alternativa incorrecta:",
+      "image": "",
+      "alternatives": {
+        "a": "Debe ser titular de una licencia de conducir de la clase y categoría que corresponda al vehículo que conduce.",
+        "b": "Debe portar su licencia de conducir vigente, así como la documentación del vehículo.",
+        "c": "Debe conducir solo vehículos habilitados por la autoridad competente.",
+        "d": "Puede oponerse a la labor de supervisión y fiscalización de la autoridad competente."
+      },
+      "response": "d"
+    },
+    {
+      "id": 33,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "La edad máxima para conducir vehículos destinados al servicio de transporte terrestre es de:",
+      "image": "",
+      "alternatives": {
+        "a": "55 años.",
+        "b": "60 años.",
+        "c": "65 años.",
+        "d": "70 años."
+      },
+      "response": "d"
+    },
+    {
+      "id": 34,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "En el servicio de transporte de personas de ámbito nacional, la habilitación vehicular permite que un vehículo pueda ser empleado en:",
+      "image": "",
+      "alternatives": {
+        "a": "En cualquiera de las rutas autorizadas del transportista a nivel nacional.",
+        "b": "En cualquiera de las rutas a nivel nacional.",
+        "c": "En toda la Red Vial Nacional.",
+        "d": "Todas las anteriores."
+      },
+      "response": "a"
+    },
+    {
+      "id": 35,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "El servicio de transporte regular de personas es aquel que se presta:",
+      "image": "",
+      "alternatives": {
+        "a": "Con regularidad y sin uniformidad.",
+        "b": "Con regularidad y uniformidad.",
+        "c": "Con uniformidad y sin regularidad.",
+        "d": "Sin regularidad ni uniformidad."
+      },
+      "response": "b"
+    },
+
+    {
+      "id": 36,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "Si un conductor atenta contra la integridad física del inspector durante la realización de sus funciones, será sancionado con:",
+      "image": "",
+      "alternatives": {
+        "a": "Cancelación de licencia de conducir e inhabilitación para obtener nueva licencia por tres (3) años.",
+        "b": "Suspensión de la licencia de conducir por tres (3) años.",
+        "c": "Cancelación de la licencia de conducir e inhabilitación definitiva para obtener nueva licencia. Multa de 0.5 UIT.",
+        "d": "Cancelación de la licencia de conducir por un (1) año e inhabilitación definitiva para obtener nueva licencia. Multa de 1 UIT."
+      },
+      "response": "c"
+    },
+
+    {
+      "id": 37,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "En el servicio de transporte la vigencia de la habilitación del conductor es ….y de renovación automática una vez acreditada la vigencia de la licencia de conducir de la categoría correspondiente al vehículo habilitado",
+      "image": "",
+      "alternatives": {
+        "a": "Anual.",
+        "b": "Cada dos años.",
+        "c": "Cada cinco años.",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "a"
+    },
+
+    {
+      "id": 38,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A partir de qué edad el conductor del servicio de transporte deberá rendir y aprobar los exámenes médicos semestrales que establezca la Dirección General de Transporte Terrestre (DGTT)?",
+      "image": "",
+      "alternatives": {
+        "a": "60 años.",
+        "b": "55 años.",
+        "c": "65 años.",
+        "d": "No existe dicho exigencia en la norma."
+      },
+      "response": "c"
+    },
+    {
+      "id": 39,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "Si un presunto infractor paga voluntariamente dentro de los cinco días hábiles de levantada el acta de control, la multa que corresponda a la infracción imputada, ésta será reducida en:",
+      "image": "",
+      "alternatives": {
+        "a": "20% de su monto.",
+        "b": "30% de su monto.",
+        "c": "40% de su monto.",
+        "d": "50% de su monto."
+      },
+      "response": "d"
+    },
+    {
+      "id": 40,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "El servicio de transporte terrestre, por el elemento transportado, se clasifica en:",
+      "image": "",
+      "alternatives": {
+        "a": "Servicio de transporte terrestre de personas, de mercancías y mixto.",
+        "b": "Servicio de transporte terrestre provincial, regional y nacional.",
+        "c": "Servicio de transporte terrestre de mercancías, de materiales y residuos peligrosos y de personas.",
+        "d": "Servicio de transporte terrestre regular de personas y especial de personas."
+      },
+      "response": "a"
+    },
+    {
+      "id": 41,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "Es la medida preventiva que consiste en el traslado del vehículo fuera de la vía pública dispuesto por la autoridad competente y/o PNP, utilizando cualquier medio eficaz y proporcional al fin que se persigue:",
+      "image": "",
+      "alternatives": {
+        "a": "Remoción del vehículo.",
+        "b": "Retención del vehículo.",
+        "c": "Internamiento del vehículo.",
+        "d": "Interrupción del viaje."
+      },
+      "response": "a"
+    },
+    {
+      "id": 42,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "Es la entidad encargada de supervisar, fiscalizar y sancionar las actividades del transporte terrestre de personas, carga y mercancías en el ámbito nacional:",
+      "image": "",
+      "alternatives": {
+        "a": "La Superintendencia de Transporte Terrestre de Personas, Carga y Mercancías-SUTRAN",
+        "b": "La Dirección General de Transporte Terrestre del Ministerio de Transportes y Comunicaciones.",
+        "c": "El Organismo Supervisor de la Inversión en Infraestructura de Transporte de uso Público-OSITRAN.",
+        "d": "Las alternativas a) y b) son correctas"
+      },
+      "response": "a"
+    },
+    {
+      "id": 43,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "El servicio de transporte terrestre tiene como fin primordial:",
+      "image": "",
+      "alternatives": {
+        "a": "Que la persona natural o jurídica que presta el servicio reciba una contraprestación económica.",
+        "b": "Satisfacer la necesidad de traslado por vía terrestre de personas o mercancías.",
+        "c": "Ninguna de las anteriores.",
+        "d": "Que al generador de carga se le pague un flete."
+      },
+      "response": "b"
+    },
+    {
+      "id": 44,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Qué sanción le corresponde al conductor que presta el servicio sin contar con autorización otorgada por la autoridad competente o en una modalidad o ámbito diferente al autorizado?",
+      "image": "",
+      "alternatives": {
+        "a": "Multa de 1 UIT",
+        "b": "Multa de 2 UIT",
+        "c": "Multa de 0.5 UIT",
+        "d": "Multa de 0.05 UIT"
+      },
+      "response": "a"
+    },
+    {
+      "id": 45,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "Con relación a las jornadas de conducción. Marque la alternativa correcta:",
+      "image": "",
+      "alternatives": {
+        "a": "No debe exceder las cinco (5) horas de conducción continuas en el servicio diurno, ni las cuatro (4) horas en el servicio nocturno.",
+        "b": "No debe exceder las cuatro (4) horas de conducción continuas en el servicio diurno, ni las cuatro (5) horas en el servicio nocturno.",
+        "c": "No debe exceder las cinco (5) horas de conducción continuas en el servicio diurno, ni las cuatro (4.5) horas en el servicio nocturno.",
+        "d": "No debe exceder las cuatro (4) horas de conducción continuas en el servicio diurno, ni las tres (3) horas en el servicio nocturno."
+      },
+      "response": "a"
+    },
+    {
+      "id": 46,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "La hoja de ruta electrónica se debe elaborar",
+      "image": "",
+      "alternatives": {
+        "a": "Al culminar el servicio de transporte terrestre",
+        "b": "Durante el servicio de transporte terrestre, que incluye la relación de pasajeros",
+        "c": "antes del inicio del servicio de transporte terrestre",
+        "d": "Durante la venta del pasaje al usuario"
+      },
+      "response": "c"
+    },
+    {
+      "id": 47,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "El servicio de transporte terrestre, por el ámbito territorial se clasifica en:",
+      "image": "",
+      "alternatives": {
+        "a": "Servicio de transporte terrestre de personas, de mercancías y mixto.",
+        "b": "Servicio de transporte terrestre de ámbito distrital, de ámbito provincial, de ámbito regional y de ámbito nacional.",
+        "c": "Servicio de transporte terrestre de ámbito provincial, de ámbito regional y de ámbito nacional.",
+        "d": "Servicio de transporte terrestre de ámbito nacional y de ámbito provincial."
+      },
+      "response": "c"
+    },
+    {
+      "id": 48,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "Es el documento que sustenta el traslado de bienes por el transportista autorizado para prestar el servicio de transporte terrestre de mercancías:",
+      "image": "",
+      "alternatives": {
+        "a": "Hoja de ruta",
+        "b": "Flete",
+        "c": "Licencia de conducir",
+        "d": "Guía de Remisión de Transportista"
+      },
+      "response": "d"
+    },
+    {
+      "id": 49,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "Si el conductor transporta a sabiendas, productos explosivos, inflamables corrosivos, venenosos o similares en un vehículo del servicio de transporte de personas, comete una infracción calificada como:",
+      "image": "",
+      "alternatives": {
+        "a": "Muy grave",
+        "b": "Grave",
+        "c": "Leve",
+        "d": "No es ni la alternativa a) ni la alternativa c)"
+      },
+      "response": "a"
+    },
+    {
+      "id": 50,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "Es la persona natural o jurídica por cuyo encargo se transporte mercancías en un vehículo habilitado para la prestación del servicio de transporte público de mercancías:",
+      "image": "",
+      "alternatives": {
+        "a": "Transportista",
+        "b": "Destinatario de carga",
+        "c": "Generador de carga",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "c"
+    },
+    {
+      "id": 51,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "El inspector de transporte es la persona acreditada u homologada para:",
+      "image": "",
+      "alternatives": {
+        "a": "Realizar acciones de control, supervisión y detección de incumplimientos o infracciones a las normas del servicio de transporte terrestre.",
+        "b": "Imponer las papeletas de infracción al tránsito",
+        "c": "Emitir la resolución de sanción por las infracciones a las normas del servicio de transporte terrestre",
+        "d": "Todas las anteriores."
+      },
+      "response": "a"
+    },
+    {
+      "id": 52,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "Los terminales terrestres son obligatorios para el servicio público de transporte regular de personas en el ámbito:",
+      "image": "",
+      "alternatives": {
+        "a": "Nacional y Regional.",
+        "b": "Regional y Provincial.",
+        "c": "Nacional, Regional y Provincial.",
+        "d": "Distrital, Provincial, Regional, Nacional e Internacional."
+      },
+      "response": "c"
+    },
+    {
+      "id": 53,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿En qué momento se debe elaborar la Hoja de ruta electrónica?",
+      "image": "",
+      "alternatives": {
+        "a": "Al culminar el servicio de transporte terrestre.",
+        "b": "Durante el servicio de transporte terrestre, que incluye la relación de pasajeros.",
+        "c": "Antes del inicio del servicio de transporte terrestre",
+        "d": "Durante la venta del pasaje al usuario."
+      },
+      "response": "c"
+    },
+    {
+      "id": 54,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "Es el documento expedido por la autoridad competente, que acredita la habilitación del vehículo para prestar el servicio de transporte:",
+      "image": "",
+      "alternatives": {
+        "a": "La Placa Única Nacional de Rodaje.",
+        "b": "La Tarjeta de Identificación Vehicular.",
+        "c": "La Guía de Remisión de Transportista.",
+        "d": "La Tarjeta Única de Circulación."
+      },
+      "response": "d"
+    },
+    {
+      "id": 55,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "La auditoría anual es una modalidad de fiscalización del servicio de transporte, que es realizada aleatoriamente a los transportistas, a la infraestructura complementaria de transporte y a…….....",
+      "image": "",
+      "alternatives": {
+        "a": "los conductores habilitados",
+        "b": "Los establecimientos de salud que realizan los exámenes médicos a los conductores",
+        "c": "La red vial nacional",
+        "d": "Todas las anteriores."
+      },
+      "response": "a"
+    },
+    {
+      "id": 56,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "Según el Reglamento Nacional de Administración de Transporte, se considera reincidencia a aquel conductor que es sancionado por la misma infracción ________ que amerite una sanción pecuniaria, por la que fue sancionado dentro de los doce (12) meses anteriores.",
+      "image": "",
+      "alternatives": {
+        "a": "Muy grave.",
+        "b": "Grave.",
+        "c": "Muy grave o grave.",
+        "d": "Muy grave, grave o leve."
+      },
+      "response": "c"
+    },
+    {
+      "id": 57,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "De las siguientes alternativas, ¿cuál de ellas no es una forma a través de la cual concluye el procedimiento sancionador?",
+      "image": "",
+      "alternatives": {
+        "a": "Resolución de sanción.",
+        "b": "Resolución de archivamiento.",
+        "c": "Pago voluntario de la total de sanción.",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "d"
+    },
+    {
+      "id": 58,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "Es exigible el manifiesto de usuarios para el servicio de:",
+      "image": "",
+      "alternatives": {
+        "a": "Transporte regular de personas de ámbito nacional y regional.",
+        "b": "Transporte regular de personas de ámbito nacional, regional y provincial.",
+        "c": "Transporte especial de personas de ámbito provincial",
+        "d": "Todas las anteriores."
+      },
+      "response": "a"
+    },
+    {
+      "id": 59,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "Los medios probatorios que sustentan los incumplimientos y las infracciones son:",
+      "image": "",
+      "alternatives": {
+        "a": "El acta de control levantada por el inspector de transporte.",
+        "b": "El documento por el que se da cuenta de la detección de algún incumplimiento o infracción en la fiscalización de gabinete.",
+        "c": "Las actas de inspecciones, constataciones, ocurrencias, formularios y similares levantados por otras instituciones en el ejercicio de sus funciones.",
+        "d": "Todas las anteriores."
+      },
+      "response": "d"
+    },
+    {
+      "id": 60,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "La sanción que le corresponde al conductor por obstruir la labor de fiscalización, cuando incurre en actos de simulación, suplantación u otras conductas destinadas a hacer incurrir en error a la autoridad competente respecto de la autorización para prestar el servicio, es:",
+      "image": "",
+      "alternatives": {
+        "a": "Suspensión por 30 días de la autorización.",
+        "b": "Suspensión por 60 días de la autorización.",
+        "c": "Suspensión de la licencia de conducir por 90 días y multa de 0.5 UIT.",
+        "d": "Suspensión por 120 días de la autorización."
+      },
+      "response": "c"
+    },
+    {
+      "id": 61,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "En el servicio de transporte el……….debe velar por el cumplimiento de las obligaciones que corresponden al conductor",
+      "image": "",
+      "alternatives": {
+        "a": "Generador de carga.",
+        "b": "Usuario del servicio.",
+        "c": "Transportista.",
+        "d": "La a) y b) son correctas."
+      },
+      "response": "c"
+    },
+    {
+      "id": 62,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "La duración acumulada de jornadas de conducción no deberá exceder:",
+      "image": "",
+      "alternatives": {
+        "a": "De doce (12) horas en un periodo de veinticuatro (24) horas, contadas desde el inicio de la conducción en un servicio.",
+        "b": "De ocho (8) horas en un periodo de veinticuatro (24) horas, contadas desde el inicio de la conducción en un servicio.",
+        "c": "De diez (10) horas en un periodo de treinta y seis (36) horas, contadas desde el inicio de la conducción en un servicio.",
+        "d": "De diez (10) horas en un periodo de veinticuatro (24) horas, contadas desde el inicio de la conducción en un servicio."
+      },
+      "response": "d"
+    },
+    {
+      "id": 63,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A partir de qué edad los menores de edad deben ocupar su propio asiento?",
+      "image": "",
+      "alternatives": {
+        "a": "A partir de los cinco (5) años de edad.",
+        "b": "A partir de los tres (3) años de edad.",
+        "c": "A partir de los siete (7) años de edad.",
+        "d": "No edad mínima para que los menores de edad ocupen su propio asiento."
+      },
+      "response": "a"
+    },
+    {
+      "id": 64,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuáles son los documentos de transporte de mercancías que regula el Reglamento Nacional de Administración de Transporte?",
+      "image": "",
+      "alternatives": {
+        "a": "La guía de remisión del transportista, la carta de porte y el manifiesto de carga.",
+        "b": "Únicamente la guía de remisión del transportista.",
+        "c": "Únicamente la guía de remisión del transportista y la carta de porte.",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "a"
+    },
+    {
+      "id": 65,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Pueden viajar dos personas en un mismo asiento?",
+      "image": "",
+      "alternatives": {
+        "a": "Nunca se da este supuesto.",
+        "b": "Sí, cuando una de ellas es un menor de cinco (5) años de edad.",
+        "c": "Sí, cuando una de ellas es un menor de tres (3) años de edad.",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "b"
+    },
+    {
+      "id": 66,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "El recibidor o destinatario en el transporte de mercancías no se obliga a:",
+      "image": "",
+      "alternatives": {
+        "a": "Recibir las mercancías en los lugares autorizados o adecuados.",
+        "b": "Suscribir y hacer constar la recepción de la mercancía en la guía de remisión del transportista.",
+        "c": "Verificar que se ha estibado correctamente las mercancías en el vehículo.",
+        "d": "Cancelar el precio pactado por el servicio de transporte, si corresponde."
+      },
+      "response": "c"
+    },
+    {
+      "id": 67,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "De las entidades que se indican a continuación, ¿cuál de ellas no es una autoridad competente en materia de transporte y tránsito terrestre?",
+      "image": "",
+      "alternatives": {
+        "a": "El Ministerio de Transportes y Comunicaciones.",
+        "b": "Las municipalidades provinciales y distritales.",
+        "c": "El Consejo Nacional de Seguridad Vial.",
+        "d": "La Policía Nacional del Perú."
+      },
+      "response": "c"
+    },
+    {
+      "id": 68,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "En el servicio de transporte de personas de ámbito provincial, el ascenso y descenso de los usuarios se podrá realizar en:",
+      "image": "",
+      "alternatives": {
+        "a": "Los lugares autorizados o paraderos de ruta.",
+        "b": "En los paraderos urbanos e interurbanos.",
+        "c": "En cualquier punto de la vía, siempre que se tome la debida precaución.",
+        "d": "Todas las anteriores."
+      },
+      "response": "b"
+    },
+    {
+      "id": 69,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "Al conductor que durante una acción de fiscalización se niega a entregar la información o documentación sobre su habilitación como conductor del servicio de transporte, se le debe aplicar la siguiente sanción:",
+      "image": "",
+      "alternatives": {
+        "a": "Suspensión de la licencia de conducir por 30 días calendario.",
+        "b": "Suspensión de la licencia de conducir por 90 días calendario y multa de 0.5 UIT.",
+        "c": "Suspensión de la licencia de conducir por 10 días calendario.",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "b"
+    },
+    {
+      "id": 70,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "Es el servicio de transporte de personas y de mercancías en un vehículo autorizado para este tipo de transporte:",
+      "image": "",
+      "alternatives": {
+        "a": "Servicio de transporte estándar.",
+        "b": "Servicio de transporte mixto.",
+        "c": "Servicio de transporte diferenciado.",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "b"
+    },
+    {
+      "id": 71,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "El vehículo que presta el servicio de transporte de ámbito nacional o regional debe contar con el siguiente Seguro:",
+      "image": "",
+      "alternatives": {
+        "a": "Seguro Obligatorio de Accidentes de Tránsito-SOAT.",
+        "b": "Certificado Contra Accidentes de Tránsito-CAT.",
+        "c": "Seguro Obligatorio de Accidentes de Tránsito-SOAT o Certificado Contra Accidentes de Tránsito-CAT.",
+        "d": "Alternativas a) y b)."
+      },
+      "response": "a"
+    }
+  ]
+}

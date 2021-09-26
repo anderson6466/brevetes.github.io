@@ -1,0 +1,15 @@
+doctype html
+html
+  head
+    title= title
+    link(rel='stylesheet', href='/stylesheets/style.css')
+    link(href="https://fonts.googleapis.com/css?family=Ubuntu:400,500" rel="stylesheet")
+    link(rel="stylesheet" href="/stylesheets/vex/vex.css")
+    link(rel="stylesheet" href="/stylesheets/vex/vex-theme-os.css")
+
+  body
+    include partials/header.pug
+    block content
+    include partials/footer
+    script(src='/javascripts/script.js')
+

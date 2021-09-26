@@ -1,0 +1,91 @@
+extends layout
+
+block content
+    .container
+        .welcome
+            h2.welcome__title SIMULACRO DE PREGUNTAS PARA LA EVALUACIÓN DE CONOCIMIENTOS EN LA CONDUCCIÓN PARA POSTULANTES A LICENCIAS DE CONDUCIR
+            p.welcome__text El examen contiene 40 preguntas y tiene una duración de 40 minutos, y para su aprobación, el postulante deberá de acertar por lo menos treinta y cinco (35) respuestas de las cuarenta (40) preguntas. Es importante realizar este examen en completo silencio para evitar distracciones.
+            <img style="width:100%;"  src="https://touring.ml:7000/SIMULACRO-MTC-Online.png"   >
+            
+           
+            
+    .categories.container
+        if !login
+            button(onclick="login(this);").categories__item AI
+            button(onclick="login(this);").categories__item AIIa
+            button(onclick="login(this);").categories__item AIIb
+            button(onclick="login(this);").categories__item AIIIa
+            button(onclick="login(this);").categories__item AIIIb
+            button(onclick="login(this);").categories__item AIIIc
+            button(onclick="login(this);").categories__item Señales
+        else
+            a(href="ai").categories__item AI
+            a(href="aiia").categories__item AIIa
+            a(href="aiib").categories__item AIIb
+            a(href="aiiia").categories__item AIIIa
+            a(href="aiiib").categories__item AIIIb
+            a(href="aiiic").categories__item AIIIc
+            a(href="senales").categories__item Señales
+
+    script(src="/javascripts/vex/vex.min.js")
+    script(src="/javascripts/vex/vex.combined.min.js")
+    script.
+        var pass = '';
+        var category = '';
+        var user ='';
+        vex.defaultOptions.className = 'vex-theme-os'
+
+        function login(ev){
+            //console.log(ev.innerHTML);
+            vex.dialog.open({
+
+
+                 message: 'Ingrese Sus Credenciales',
+                             
+                input: [
+                     '<input name="user" type="text" placeholder="Correo o usuario" required />',
+                    '<input name="password" type="password" placeholder="Password" required />'
+
+                ].join(''),
+                buttons: [
+                    {text: "Ingresar", type: "submit", className: "vex-dialog-button-primary"}
+                ],
+                callback: function (data) {
+                    if (!data) {
+                        location.href = "https://touring.ml:7000/";
+                    } else {
+                        user =data.user
+                        pass = data.password;
+                        category = ev.innerHTML;
+
+                        var form = document.createElement("form");
+                        var element1 = document.createElement("input");
+                        var element2 = document.createElement("input");
+                          var element3 = document.createElement("input");
+                        form.method = "POST";
+                        form.action = "/login";
+
+                        element1.value = pass;
+                        element1.name = "password";
+
+
+                        element2.value = category;
+                        element2.name = "category";
+
+                         element3.value=user;
+                         element3.name="user";
+                        form.appendChild(element1);
+                        form.appendChild(element2)
+                            form.appendChild(element3)
+                        document.body.appendChild(form);
+
+                        form.submit();
+                    }
+                }
+            });
+
+        }
+
+
+
+

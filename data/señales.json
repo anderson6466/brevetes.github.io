@@ -1,0 +1,972 @@
+{
+  "questions": [
+    {
+      "id":1,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La señal vertical reglamentaria R-3 significa que:",
+      "image": "/images/questions/ai/4.jpg",
+      "alternatives":{
+        "a": "Nos acercamos a una zona restringida al tránsito.",
+        "b": "Está permitido adelantar vehículos.",
+        "c": "El único sentido de desplazamiento es continuar de frente.",
+        "d": "Ninguna de las alternativas es correcta"
+      },
+      "response": "c"
+    },
+    {
+      "id":2,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "¿Cuál es la diferencia entre las señales P-2A y P-1A?",
+      "image": "/images/questions/ai/32.jpg",
+      "alternatives":{
+        "a": "No hay diferencia, se usan indistintamente.",
+        "b": "La señal P-2A se utiliza en situaciones de mayor riesgo.",
+        "c": "La señal P-1A advierte la presencia de curva pronunciada a la derecha mientras que la P-2A advierte la presencia de curva suave a la derecha.",
+        "d": "La señal P-2A advierte la presencia de curva pronunciada a la derecha mientras que la P-1A advierte la presencia de curva suave a la derecha."
+      },
+      "response": "c"
+    },
+    {
+      "id":3,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "¿Qué indica la señal R-30F?",
+      "image": "/images/questions/ai/33.jpg",
+      "alternatives":{
+        "a": "Tener precaución con vehículos lentos.",
+        "b": "Regula la velocidad máxima permitida en curvas.",
+        "c": "Regula la velocidad máxima en zonas rurales.",
+        "d": "No se encuentra regulada en el reglamento."
+      },
+      "response": "b"
+    },
+    {
+      "id":4,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal vertical reglamentaria P-17A, indica:",
+      "image": "/images/questions/ai/50.jpg",
+      "alternatives":{
+        "a": "Reducción de la calzada al lado derecho.",
+        "b": "Reducción de la calzada al lado izquierdo.",
+        "c": "Reducción de la calzada en ambos lados.",
+        "d": "Ensanchamiento de la calzada en ambos lados."
+      },
+      "response": "c"
+    },
+    {
+      "id":5,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La señal preventiva P-33A, significa:",
+      "image": "/images/questions/ai/67.jpg",
+      "alternatives":{
+        "a": "Señal de curva sinuosa.",
+        "b": "Señal de proximidad a un badén.",
+        "c": "Señal de proximidad de un reductor de velocidad tipo resalto.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "c"
+    },
+    {
+      "id":6,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (R-17), significa:",
+      "image": "/images/questions/ai/100.jpg",
+      "alternatives":{
+        "a": "Prohibido estacionar.",
+        "b": "Prohibida la circulación de vehículos automotores.",
+        "c": "Prohibida la circulación de autos particulares.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "b"
+    },
+    {
+      "id":7,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "Si usted se encuentra conduciendo su vehículo por una vía y antes de cruzar la intersección se encuentra con la señal R-4, esta le indica: ",
+      "image": "/images/questions/ai/101.jpg",
+      "alternatives":{
+        "a": "Que la calle está clausurada.",
+        "b": "Que está por ingresar a una vía de sentido contrario y no debe entrar.",
+        "c": "Que debe parar totalmente antes de poder ingresar.",
+        "d": "Ninguna de las alternativas es correcta"
+      },
+      "response": "b"
+    },
+    {
+      "id":8,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-36), significa:",
+      "image": "/images/questions/ai/102.jpg",
+      "alternatives":{
+        "a": "Proximidad de un túnel.",
+        "b": "Superficie deslizante.",
+        "c": "Prender las luces bajas.",
+        "d": "Mantener la distancia entre vehículos por seguridad."
+      },
+      "response": "b"
+    },
+    {
+      "id":9,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (R-14), significa:",
+      "image": "/images/questions/ai/103.jpg",
+      "alternatives":{
+        "a": "Circular por el carril de la derecha.",
+        "b": "Circular por el carril central.",
+        "c": "Circular solo en el sentido indicado por la flecha.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "c"
+    },
+    {
+      "id":10,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "Si usted circula por una vía y se encuentra con la señal (R-11a) , ésta le indica:",
+      "image": "/images/questions/ai/104.jpg",
+      "alternatives":{
+        "a": "Que es una vía de tres carriles de un solo sentido.",
+        "b": "Que es una vía de tres carriles y usted puede utilizar solo uno de ellos.",
+        "c": "Que es una vía de tres carriles y usted puede utilizar los dos de la derecha.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "c"
+    },
+    {
+      "id":11,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (R-30c) , significa:",
+      "image": "/images/questions/ai/105.jpg",
+      "alternatives":{
+        "a": "Que la velocidad máxima de la vía es de 50 km/h.",
+        "b": "Que la velocidad mínima de la vía es de 50 km/h.",
+        "c": "Que al salir de la vía por donde está circulando, la velocidad máxima es 50 km/h.",
+        "d": "Que al salir de la vía por donde está circulando, la velocidad mínima es 50 km/h."
+      },
+      "response": "c"
+    },
+    {
+      "id":12,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (R-5-4), significa:",
+      "image": "/images/questions/ai/106.jpg",
+      "alternatives":{
+        "a": "Que la vía no continúa y los conductores deben girar a la izquierda.",
+        "b": "Que la intersección contempla giros tangentes a la izquierda en ambos sentidos.",
+        "c": "Que la intersección está en mantenimiento y que por el momento solo se puede girar a la izquierda.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "b"
+    },
+    {
+      "id":13,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (R-9), significa:",
+      "image": "/images/questions/ai/107.jpg",
+      "alternatives":{
+        "a": "Que no está permitido girar en U.",
+        "b": "Que está permitido el giro en U.",
+        "c": "Que si desea puede girar a la izquierda.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "b"
+    },
+    {
+      "id":14,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (R-5-2), significa:",
+      "image": "/images/questions/ai/108.jpg",
+      "alternatives":{
+        "a": "Que la vía solo permite girar a la izquierda.",
+        "b": "Prevención por bifurcación de la vía.",
+        "c": "Que el carril por donde circula permite girar a la izquierda o seguir de frente.",
+        "d": "No es una señal válida en el Perú."
+      },
+      "response": "c"
+    },
+    {
+      "id":15,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (R-20), significa:",
+      "image": "/images/questions/ai/109.jpg",
+      "alternatives":{
+        "a": "Que el peatón antes de cruzar debe mirar si se acercan autos por la derecha.",
+        "b": "Que el conductor que viene por la derecha debe tener cuidado con los peatones.",
+        "c": "Que los peatones deben circular por la izquierda.",
+        "d": "Que los peatones deben circular por la derecha."
+      },
+      "response": "c"
+    },
+    {
+      "id":16,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (R-40), significa:",
+      "image": "/images/questions/ai/110.jpg",
+      "alternatives":{
+        "a": "Crucero tipo cebra.",
+        "b": "Control policial.",
+        "c": "Pavimento deslizante.",
+        "d": "Circular con luces bajas."
+      },
+      "response": "d"
+    },
+    {
+      "id":17,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (R-48), significa:",
+      "image": "/images/questions/ai/111.jpg",
+      "alternatives":{
+        "a": "Los peatones deben circular por la derecha y los camiones por la izquierda",
+        "b": "Los peatones deben tener cuidado con los camiones.",
+        "c": "Zona de carga y descarga.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "c"
+    },
+    {
+      "id":18,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (R-49), significa:",
+      "image": "/images/questions/ai/112.jpg",
+      "alternatives":{
+        "a": "Está permitido cambiar de carril por la izquierda y por la derecha.",
+        "b": "Se debe mantener la distancia de seguridad entre vehículos.",
+        "c": "Está permitido cambiar de carril por la izquierda para adelantar.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "b"
+    },
+    {
+      "id":19,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (R-50), significa:",
+      "image": "/images/questions/ai/113.jpg",
+      "alternatives":{
+        "a": "Que si solo hay un carril tiene preferencia de paso el conductor que llegó primero.",
+        "b": "Que si solo hay un carril tiene preferencia el conductor que está mirando la señal.",
+        "c": "Que si solo hay un carril no tiene preferencia el que está mirando la señal y debe darle paso al del sentido contrario.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "c"
+    },
+    {
+      "id":20,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La señal (R-5-1), es:",
+      "image": "/images/questions/ai/114.jpg",
+      "alternatives":{
+        "a": "Una señal informativa.",
+        "b": "Una señal preventiva.",
+        "c": "Una señal de obligación.",
+        "d": "No es una señal válida en el Perú."
+      },
+      "response": "c"
+    },
+    {
+      "id":21,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La señal (P-3a) , le indica al conductor que:",
+      "image": "/images/questions/ai/115.jpg",
+      "alternatives":{
+        "a": "Hay una curva y contra-curva a la izquierda.",
+        "b": "Hay una curva y contra-curva a la derecha.",
+        "c": "Hay una curva y contra-curva pronunciada a la derecha.",
+        "d": "Hay una curva y contra-curva pronunciada a la izquierda."
+      },
+      "response": "c"
+    },
+    {
+      "id":22,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-5-1a) , le advierte al conductor que:",
+      "image": "/images/questions/ai/116.jpg",
+      "alternatives":{
+        "a": "Se aproxima a una curva y contra-curva a la izquierda.",
+        "b": "Se aproxima a una curva y contra-curva a la derecha.",
+        "c": "Se aproxima a un camino sinuoso a la derecha.",
+        "d": "Se aproxima a un camino sinuoso a la izquierda."
+      },
+      "response": "d"
+    },
+    {
+      "id":23,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-61), le advierte al conductor que:",
+      "image": "/images/questions/ai/117.jpg",
+      "alternatives":{
+        "a": "El sentido del tránsito es el que indica la flecha.",
+        "b": "Se aproxima a una reducción de la vía en ambos sentidos.",
+        "c": "Está circulando por una curva horizontal.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "c"
+    },
+    {
+      "id":24,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-34), le advierte al conductor que:",
+      "image": "/images/questions/ai/118.jpg",
+      "alternatives":{
+        "a": "La vía está en mal estado y tiene baches.",
+        "b": "Se aproxima a un resalto.",
+        "c": "Se aproxima a un rompe muelles.",
+        "d": "Se aproxima a un badén."
+      },
+      "response": "d"
+    },
+    {
+      "id":25,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-60), es:",
+      "image": "/images/questions/ai/119.jpg",
+      "alternatives":{
+        "a": "Una señal turística.",
+        "b": "Una señal informativa.",
+        "c": "Una señal preventiva.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "c"
+    },
+    {
+      "id":26,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-46), indica:",
+      "image": "/images/questions/ai/120.jpg",
+      "alternatives":{
+        "a": "Existencia de una ciclovía.",
+        "b": "Autorización para el cruce de ciclistas.",
+        "c": "Ciclistas en la vía.",
+        "d": "Cercanía de una ciclovía."
+      },
+      "response": "c"
+    },
+    {
+      "id":27,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-46-a) , indica:",
+      "image": "/images/questions/ai/121.jpg",
+      "alternatives":{
+        "a": "Que los ciclistas deben usar la ciclovía.",
+        "b": "Que nos aproximamos a un cruce de ciclovía.",
+        "c": "Que la ciclovía es solo para los ciclistas.",
+        "d": "Todas las alternativas son correctas."
+      },
+      "response": "b"
+    },
+    {
+      "id":28,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-46b) , indica:",
+      "image": "/images/questions/ai/122.jpg",
+      "alternatives":{
+        "a": "Que los ciclistas deben detenerse en ese punto.",
+        "b": "Que nos aproximamos a un cruce de ciclovía.",
+        "c": "Que la ciclovía es solo para los ciclistas.",
+        "d": "La ubicación de un cruce de ciclistas."
+      },
+      "response": "d"
+    },
+    {
+      "id":29,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-48), indica:",
+      "image": "/images/questions/ai/123.jpg",
+      "alternatives":{
+        "a": "Vía es de uso exclusivo de los peatones.",
+        "b": "Zona con presencia de peatones.",
+        "c": "Ubicación de un cruce escolar.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "b"
+    },
+    {
+      "id":30,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-48a) , indica:",
+      "image": "/images/questions/ai/124.jpg",
+      "alternatives":{
+        "a": "Vía es de uso exclusivo de peatones.",
+        "b": "Proximidad a un cruce peatonal.",
+        "c": "Ubicación de un cruce escolar.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "b"
+    },
+    {
+      "id":31,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-48-b) , indica:",
+      "image": "/images/questions/ai/125.jpg",
+      "alternatives":{
+        "a": "Ubicación de un cruce escolar.",
+        "b": "Proximidad a una calzada.",
+        "c": "Ubicación de un cruce peatonal.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "c"
+    },
+    {
+      "id":32,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-49), indica:",
+      "image": "/images/questions/ai/126.jpg",
+      "alternatives":{
+        "a": "Zona escolar.",
+        "b": "Proximidad a un cruce peatonal.",
+        "c": "Zona transitada.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "a"
+    },
+    {
+      "id":33,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-49a) , indica:",
+      "image": "/images/questions/ai/127.jpg",
+      "alternatives":{
+        "a": "Zona escolar.",
+        "b": "Proximidad a un cruce escolar.",
+        "c": "Ubicación de un cruce escolar.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "b"
+    },
+    {
+      "id":34,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-49b) , indica:",
+      "image": "/images/questions/ai/128.jpg",
+      "alternatives":{
+        "a": "Zona transitada.",
+        "b": "Proximidad a un cruce peatonal.",
+        "c": "Ubicación de un cruce escolar",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "c"
+    },
+    {
+      "id":35,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-50), indica:",
+      "image": "/images/questions/ai/129.jpg",
+      "alternatives":{
+        "a": "Zona de deportes.",
+        "b": "Proximidad a campo deportivo.",
+        "c": "Proximidad a zona urbana.",
+        "d": "Niños jugando."
+      },
+      "response": "d"
+    },
+    {
+      "id":36,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-51), indica:",
+      "image": "/images/questions/ai/130.jpg",
+      "alternatives":{
+        "a": "Zona de parqueo de vehículos pesados.",
+        "b": "Proximidad a zona rural.",
+        "c": "Maquinaria agrícola en la vía.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "c"
+    },
+    {
+      "id":37,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-53), indica:",
+      "image": "/images/questions/ai/131.jpg",
+      "alternatives":{
+        "a": "Proximidad a un establo.",
+        "b": "Proximidad a zona agrícola.",
+        "c": "Animales en la vía.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "c"
+    },
+    {
+      "id":40,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-55), indica:",
+      "image": "/images/questions/ai/132.jpg",
+      "alternatives":{
+        "a": "Semáforo malogrado.",
+        "b": "Proximidad a un semáforo.",
+        "c": "Semáforos en ola verde.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "b"
+    },
+    {
+      "id":41,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-58), le indica:",
+      "image": "/images/questions/ai/133.jpg",
+      "alternatives":{
+        "a": "Que usted se aproxima a una señal de PARE.",
+        "b": "Que usted debe parar donde está la señal P-58.",
+        "c": "Que se trata de un PARE, pero puede seguir adelante.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "a"
+    },
+    {
+      "id":42,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-59), le indica:",
+      "image": "/images/questions/ai/134.jpg",
+      "alternatives":{
+        "a": "Que usted se aproxima a una señal de CEDA EL PASO.",
+        "b": "Que usted debe ceder el paso donde está la señal P-59.",
+        "c": "Que se trata de un PARE, pero puede seguir adelante.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "a"
+    },
+    {
+      "id":43,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-41), le indica:",
+      "image": "/images/questions/ai/135.jpg",
+      "alternatives":{
+        "a": "Que usted se aproxima a una zona de camiones.",
+        "b": "Que usted debe encender sus luces pues se aproxima a una zona con poca visibilidad.",
+        "c": "Que usted se aproxima a un túnel.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "c"
+    },
+    {
+      "id":44,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-45), indica:",
+      "image": "/images/questions/ai/136.jpg",
+      "alternatives":{
+        "a": "Proximidad a un aeropuerto.",
+        "b": "Proximidad a una pista de aviones.",
+        "c": "Vuelo de aviones a baja altura.",
+        "d": "Aviones que generan ruido."
+      },
+      "response": "c"
+    },
+    {
+      "id":45,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-52), le indica:",
+      "image": "/images/questions/ai/137.jpg",
+      "alternatives":{
+        "a": "Que usted debe dar prioridad de paso a las ambulancias.",
+        "b": "Que usted debe dar prioridad de paso a los bomberos.",
+        "c": "Que se aproxima a una salida de vehículos de bomberos.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "c"
+    },
+    {
+      "id":46,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-66), le indica:",
+      "image": "/images/questions/ai/138.jpg",
+      "alternatives":{
+        "a": "Que se aproxima un desierto.",
+        "b": "Que se aproxima una zona donde hay ráfagas de viento lateral.",
+        "c": "Que se acerca a una zona de arenamiento en la vía.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "b"
+    },
+    {
+      "id":47,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-66a) , le indica:",
+      "image": "/images/questions/ai/139.jpg",
+      "alternatives":{
+        "a": "Que se aproxima una tormenta.",
+        "b": "Que está pasando por una zona donde hay ráfagas de viento lateral.",
+        "c": "Que se acerca a una zona de arenamiento en la vía.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "c"
+    },
+    {
+      "id":48,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "Si al conducir su vehículo se encuentra con la señal vertical que se muestra, usted debe entender que:",
+      "image": "/images/questions/ai/140.jpg",
+      "alternatives":{
+        "a": "La vía está interrumpida y debe tomar el camino alternativo que muestra la señal.",
+        "b": "En la siguiente intersección está prohibido girar a la izquierda y por lo tanto, si desea seguir esa ruta debe tomar el camino alternativo que muestra la señal.",
+        "c": "En la siguiente intersección está prohibido girar a la derecha y por lo tanto, si desea seguir esa ruta debe tomar el camino alternativo que muestra la señal.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "b"
+    },
+    {
+      "id":49,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "Si al conducir su vehículo se encuentra con la señal vertical que se muestra, usted debe entender que:",
+      "image": "/images/questions/ai/141.jpg",
+      "alternatives":{
+        "a": "Si quiere girar a la izquierda debe pasar la intersección y dar la vuelta a la manzana.",
+        "b": "En la siguiente intersección está prohibido girar a la izquierda y por lo tanto, si desea seguir esa ruta debe hacerlo una cuadra antes.",
+        "c": "En esa dirección hay una zona de parqueo.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "a"
+    },
+    {
+      "id":50,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (I-14), significa:",
+      "image": "/images/questions/ai/142.jpg",
+      "alternatives":{
+        "a": "Señal de hostal.",
+        "b": "Señal de hospedaje.",
+        "c": "Señal de hospital.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "c"
+    },
+    {
+      "id":51,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (I-31), significa:",
+      "image": "/images/questions/ai/143.jpg",
+      "alternatives":{
+        "a": "Proximidad de una bahía de taxis.",
+        "b": "Proximidad a un estacionamiento permitido.",
+        "c": "Proximidad de una zona de parqueo para vecinos.",
+        "d": "Proximidad de un estacionamiento para emergencias."
+      },
+      "response": "d"
+    },
+    {
+      "id":52,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (I-9), significa:",
+      "image": "/images/questions/ai/144.jpg",
+      "alternatives":{
+        "a": "Zona de control policial.",
+        "b": "Zona de control de aduanas.",
+        "c": "Zona militar.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "c"
+    },
+    {
+      "id":53,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (I-18), se utiliza para indicar:",
+      "image": "/images/questions/ai/145.jpg",
+      "alternatives":{
+        "a": "Cercanía a una ferretería.",
+        "b": "Cercanía a un servicio mecánico.",
+        "c": "Cercanía a un grifo.",
+        "d": "Ninguna de las alternativas es correcta"
+      },
+      "response": "b"
+    },
+    {
+      "id":54,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (I-19), se utiliza para indicar:",
+      "image": "/images/questions/ai/146.jpg",
+      "alternatives":{
+        "a": "Cercanía a un servicio mecánico.",
+        "b": "Cercanía a una tienda.",
+        "c": "Cercanía a un grifo.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "c"
+    },
+    {
+      "id":55,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-61), muestra:",
+      "image": "/images/questions/ai/151.jpg",
+      "alternatives":{
+        "a": "Flechas retroreflectivas que indican peligro.",
+        "b": "Delineadores de curva, que guían al conductor.",
+        "c": "Advertencia al conductor sobre la proximidad de un puente.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "b"
+    },
+    {
+      "id":56,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-15), se utiliza para advertir al conductor:",
+      "image": "/images/questions/ai/181.jpg",
+      "alternatives":{
+        "a": "La proximidad a una vía de tres carriles. ",
+        "b": "La proximidad a un huracán.",
+        "c": "La proximidad a un camino sinuoso.",
+        "d": "La proximidad de una intersección rotatoria (óvalo o rotonda)."
+      },
+      "response": "d"
+    },
+    {
+      "id":57,
+      "matter":"Materias generales",
+      "theme": "Reglamento de Tránsito y Manual de Dispositivos de Control de Tránsito",
+      "statement": "La siguiente señal (P-31a) , indica:",
+      "image": "/images/questions/ai/182.jpg",
+      "alternatives":{
+        "a": "La proximidad del final de la vía.",
+        "b": "La proximidad de una vía asfaltada.",
+        "c": "La proximidad de una pendiente leve.",
+        "d": "Ninguna de las alternativas es correcta."
+      },
+      "response": "a"
+    },
+    {
+      "id": 58,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "El rótulo que identifica al material peligroso como explosivo es :",
+      "image": "",
+      "alternatives": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "a_img": "/images/questions/aiiic/28_a.jpg",
+        "b_img": "/images/questions/aiiic/28_b.jpg",
+        "c_img": "/images/questions/aiiic/28_c.jpg",
+        "d_img": "/images/questions/aiiic/28_d.jpg"
+      },
+      "response": "d"
+    },
+    {
+      "id": 59,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Los rótulos que identifican al material peligroso como líquidos inflamables son:",
+      "image": "",
+      "alternatives": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "a_img": "/images/questions/aiiic/29_a.jpg",
+        "b_img": "/images/questions/aiiic/29_b.jpg",
+        "c_img": "/images/questions/aiiic/29_c.jpg",
+        "d_img": "/images/questions/aiiic/29_d.jpg"
+      },
+      "response": "a"
+    },
+    {
+      "id": 60,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Los rótulos que identifican al material peligrosos como gases inflamables son:",
+      "image": "",
+      "alternatives": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "a_img": "/images/questions/aiiic/30_a.jpg",
+        "b_img": "/images/questions/aiiic/30_b.jpg",
+        "c_img": "/images/questions/aiiic/30_c.jpg",
+        "d_img": "/images/questions/aiiic/30_d.jpg"
+      },
+      "response": "c"
+    },
+    {
+      "id": 61,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Los rótulos que identifican al material peligrosos como sólido inflamable son:  ",
+      "image": "",
+      "alternatives": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "a_img": "/images/questions/aiiic/31_a.jpg",
+        "b_img": "/images/questions/aiiic/31_b.jpg",
+        "c_img": "/images/questions/aiiic/31_c.jpg",
+        "d_img": "/images/questions/aiiic/31_d.jpg"
+      },
+      "response": "a"
+    },
+    {
+      "id": 62,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "El rótulo que identifica al material peligroso como sustancia corburente es:",
+      "image": "",
+      "alternatives": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "a_img": "/images/questions/aiiic/32_a.jpg",
+        "b_img": "/images/questions/aiiic/32_b.jpg",
+        "c_img": "/images/questions/aiiic/32_c.jpg",
+        "d_img": "/images/questions/aiiic/32_d.jpg"
+      },
+      "response": "d"
+    },
+    {
+      "id": 63,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "El rótulo que identifica al material peligroso como peróxidos orgánicos es:",
+      "image": "",
+      "alternatives": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "a_img": "/images/questions/aiiic/33_a.jpg",
+        "b_img": "/images/questions/aiiic/33_b.jpg",
+        "c_img": "/images/questions/aiiic/33_c.jpg",
+        "d_img": "/images/questions/aiiic/33_d.jpg"
+      },
+      "response": "b"
+    },
+    {
+      "id": 64,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "El rótulo que identifica al material peligroso como sustancia tóxica es:",
+      "image": "",
+      "alternatives": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "a_img": "/images/questions/aiiic/34_a.jpg",
+        "b_img": "/images/questions/aiiic/34_b.jpg",
+        "c_img": "/images/questions/aiiic/34_c.jpg",
+        "d_img": "/images/questions/aiiic/34_d.jpg"
+      },
+      "response": "a"
+    },
+    {
+      "id": 65,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "El rótulo que identifica al material peligroso como sustancia infecciosa es:",
+      "image": "",
+      "alternatives": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "Ninguna de las anteriores",
+        "a_img": "/images/questions/aiiic/34_a.jpg",
+        "b_img": "/images/questions/aiiic/34_b.jpg",
+        "c_img": "/images/questions/aiiic/34_c.jpg",
+        "d_img": ""
+      },
+      "response": "c"
+    },
+    {
+      "id": 66,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Los rotulos que identifican al material peligroso como radioactivo son:",
+      "image": "",
+      "alternatives": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "a_img": "/images/questions/aiiic/36_a.jpg",
+        "b_img": "/images/questions/aiiic/36_b.jpg",
+        "c_img": "/images/questions/aiiic/36_c.jpg",
+        "d_img": "/images/questions/aiiic/36_d.jpg"
+      },
+      "response": "c"
+    },
+    {
+      "id": 67,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "El rótulo que identifica al material peligroso como corrosivo es:",
+      "image": "",
+      "alternatives": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "a_img": "/images/questions/aiiic/37_a.jpg",
+        "b_img": "/images/questions/aiiic/37_b.jpg",
+        "c_img": "/images/questions/aiiic/37_c.jpg",
+        "d_img": "/images/questions/aiiic/37_d.jpg"
+      },
+      "response": "b"
+    },
+    {
+      "id": 68,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "El rótulo que identifica al material peligroso como sustancias y objetos varios, incluido las sustancias peligrosas para el medio ambiente es:",
+      "image": "",
+      "alternatives": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "a_img": "/images/questions/aiiic/38_a.jpg",
+        "b_img": "/images/questions/aiiic/38_b.jpg",
+        "c_img": "/images/questions/aiiic/38_c.jpg",
+        "d_img": "/images/questions/aiiic/38_d.jpg"
+      },
+      "response": "b"
+    }
+  ]
+}

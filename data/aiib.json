@@ -1,0 +1,983 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es un elemento, característica o dispositivo considerados como requisito técnico general?",
+      "image": "",
+      "alternatives": {
+        "a": "Dispositivos de alumbrado y señalización óptica.",
+        "b": "Sistema de frenos",
+        "c": "Carrocería diseñada para evitar salpicaduras de las ruedas y/o protegida por guardafangos o escarpines",
+        "d": "Todas las anteriores"
+      },
+      "response": "d"
+    },
+    {
+      "id": 2,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿La instalación de las láminas retroreflectivas deben ser de acuerdo a las siguientes especificaciones?",
+      "image": "",
+      "alternatives": {
+        "a": "Las láminas deben ser fijadas horizontalmente en los laterales del vehículo y en la parte posterior, alternando los colores rojo y blanco.",
+        "b": "Las láminas deben colocarse a no menos de 300 mm y no más de 1,60 m sobre la superficie de la carretera.  ",
+        "c": "Las láminas podrán fijarse a la carrocería del vehículo por medio de diferentes elementos, tales como: remaches, tornillos, autoadhesivo o pegamento, asegurando la fijación permanente.  ",
+        "d": "Todas las anteriores"
+      },
+      "response": "d"
+    },
+    {
+      "id": 3,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Los vehículos de las categorías M2 destinados al servicio de transporte terrestre, M3 y N deben contar con láminas retroreflectivas?",
+      "image": "",
+      "alternatives": {
+        "a": "Solo los Vehículos M3.",
+        "b": "Si",
+        "c": "No es obligatorio.",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "b"
+    },
+    {
+      "id": 4,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Qué se entiende por neumático reencauchado?",
+      "image": "",
+      "alternatives": {
+        "a": "Neumático que luego de haberse desgastado, se vuelve operativo al efectuar nuevas ranuras en su banda de rodamiento.",
+        "b": "Neumático que luego de haberse desgastado, se vuelve operativo al adherirle una nueva banda de rodamiento.",
+        "c": "Que sin haberse desgastado, presenta ranuras y se le adhiere una banda de rodamiento.",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "b"
+    },
+    {
+      "id": 5,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A qué se denomina Sistema bi-combustible y Sistema Dual?",
+      "image": "",
+      "alternatives": {
+        "a": "sistema bi-combustible (gasolina/GNV) o sistema dual (combustible líquido/GNV)",
+        "b": "sistema bi-combustible (Diésel/GNV) o sistema dual (combustible líquido/GNV)",
+        "c": "sistema bi-combustible (gasolina/GNV) o sistema dual (GLP/GNV)",
+        "d": "ninguna de las anteriores"
+      },
+      "response": "a"
+    },
+    {
+      "id": 6,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuántas ruedas de repuesto deben contar los vehículos de categoría M y N?",
+      "image": "",
+      "alternatives": {
+        "a": "2.",
+        "b": "1",
+        "c": "no es obligatorio.",
+        "d": "ninguna de las anteriores"
+      },
+      "response": "b"
+    },
+    {
+      "id": 7,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es una característica adicional para los vehículos de las categorías M, según el Reglamento Nacional de Vehículos?",
+      "image": "",
+      "alternatives": {
+        "a": "Retrovisores y Asientos del conductor.",
+        "b": "Guardafangos.",
+        "c": "Bocina de sonido uniforme y continua y Fórmula rodante.",
+        "d": "a y c son correctas"
+      },
+      "response": "d"
+    },
+    {
+      "id": 8,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es el documento que acredita ante SUNARP las modificaciones efectuadas a las características registrables de los vehículos?",
+      "image": "",
+      "alternatives": {
+        "a": "Certificado de Revisión Técnica Vehicular.",
+        "b": "Certificado de conformidad de Conversión y modificación",
+        "c": "Certificado de Conformidad de Modificación",
+        "d": "Declaración Jurada de conformidad de Modificación"
+      },
+      "response": "c"
+    },
+    {
+      "id": 9,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "La definición de: Complementarias a las luces altas utilizada para alumbrar una mayor distancia de la vía por delante del vehículo, corresponde a:",
+      "image": "",
+      "alternatives": {
+        "a": "Luz neblinero delantero.",
+        "b": "Luz de largo alcance",
+        "c": "Luz baja  ",
+        "d": "Luz de freno"
+      },
+      "response": "b"
+    },
+    {
+      "id": 10,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es una medida preventiva que puede aplicar la autoridad competente, según en el Reglamento Nacional de Vehículos?",
+      "image": "",
+      "alternatives": {
+        "a": "Retención de la licencia de conducir.",
+        "b": "Retención de mercancía.",
+        "c": "Internamiento del vehículo.",
+        "d": "a y c son correctas."
+      },
+      "response": "c"
+    },
+    {
+      "id": 11,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es la definición que corresponde a la carrocería, de acuerdo al Reglamento Nacional de Vehículos?",
+      "image": "",
+      "alternatives": {
+        "a": "Estructura básica del vehículo, compuesta por el bastidor, el tren motriz, suspensión, dirección, ejes, ruedas y otras partes mecánicas relacionadas",
+        "b": "Estructura que se instala sobre el chasis o estructura autoportante, para el transporte de personas y/o mercancías.",
+        "c": "Elemento mecánico que sirve de soporte del vehículo, aloja a las ruedas y permite la movilidad del mismo.",
+        "d": "Estructura básica del vehículo, que sirve de soporte del vehículo y se instala con el chasis."
+      },
+      "response": "b"
+    },
+    {
+      "id": 12,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "La definición: El conjunto de elementos que hacen posible que el vehículo pueda operarse usando combustible líquido y GNV simultáneamente) corresponde a:",
+      "image": "",
+      "alternatives": {
+        "a": "Sistema bi-combustible",
+        "b": "Sistema Dual",
+        "c": "Sistema Simultaneo",
+        "d": "ninguna de las anteriores"
+      },
+      "response": "b"
+    },
+    {
+      "id": 13,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Qué porcentaje como mínimo de transparencia debe tener los parabrisas de vidrio de seguridad?",
+      "image": "",
+      "alternatives": {
+        "a": "50%",
+        "b": "70%",
+        "c": "80%",
+        "d": "60%"
+      },
+      "response": "b"
+    },
+    {
+      "id": 14,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Qué porcentaje como máximo de oscurecimiento debe tener los parabrisas de vidrio de seguridad?",
+      "image": "",
+      "alternatives": {
+        "a": "40%",
+        "b": "20%",
+        "c": "30%",
+        "d": "50%"
+      },
+      "response": "c"
+    },
+    {
+      "id": 15,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿De qué categoría son los Vehículos de mas de ocho asientos, sin contar el asiento del conductor y peso bruto vehicular de 5 toneladas o menos?",
+      "image": "",
+      "alternatives": {
+        "a": "M2",
+        "b": "M3",
+        "c": "N3",
+        "d": "M1"
+      },
+      "response": "a"
+    },
+    {
+      "id": 16,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A cuál clase pertenecen los vehículos construidos exclusivamente para el transporte de pasajeros sentados?",
+      "image": "",
+      "alternatives": {
+        "a": "Clase I",
+        "b": "Clase II",
+        "c": "Clase III",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "c"
+    },
+    {
+      "id": 17,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A qué categoría pertenecen los vehículos de mas de ocho asientos, sin contar el asiento del conductor y peso bruto vehicular de más de 5 toneladas?",
+      "image": "",
+      "alternatives": {
+        "a": "M1",
+        "b": "M3",
+        "c": "M2",
+        "d": "N3"
+      },
+      "response": "b"
+    },
+    {
+      "id": 18,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A qué se denomina un ómnibus bi-articulado?",
+      "image": "",
+      "alternatives": {
+        "a": "Vehículo compuesto de tres secciones rígidas unidas entre sí por dos juntas articuladas permitiendo libre paso entre las secciones.",
+        "b": "Vehículo compuesto de dos secciones rígidas unidas entre sí por una junta articulada permitiendo libre paso entre una sección y otra.",
+        "c": "Vehículo con la carrocería monocasco autoportante a la cual se fija el conjunto direccional en la parte delantera y el conjunto del tren motriz en la parte posterior",
+        "d": "Ninguna de la anteriores"
+      },
+      "response": "a"
+    },
+    {
+      "id": 19,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Es obligatorio el Sistema de Freno Auxiliar para los vehículos de categoría M2 y M3?",
+      "image": "",
+      "alternatives": {
+        "a": "Si",
+        "b": "No, es opcional para ambos",
+        "c": "Para los vehículos de categoría M2 es opcional y para los de categoría M3 es obligatorio",
+        "d": "No se aplica para esas categorías"
+      },
+      "response": "c"
+    },
+    {
+      "id": 20,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Qué cantidad mínima de puertas de servicio deben tener los vehículos que se destinen al servicio de transporte escolar?",
+      "image": "",
+      "alternatives": {
+        "a": "1",
+        "b": "2",
+        "c": "Depende de la categoría M2 y M3",
+        "d": "3"
+      },
+      "response": "a"
+    },
+    {
+      "id": 21,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Qué cantidad mínima de salidas de emergencia deben tener los vehículos de categoría M2 y M3 que se destinen al servicio de transporte escolar?",
+      "image": "",
+      "alternatives": {
+        "a": "2 salidas de emergencia para ambas categorías",
+        "b": "2 salidas de emergencia para la categoría M2 y 3 salidas de emergencia para la categoría M3",
+        "c": "1 Salida de emergencia para la categoría M2 y 2 salidas de emergencia para la categoría M3",
+        "d": "1 Salida de emergencia como mínimo para ambas categorías"
+      },
+      "response": "b"
+    },
+    {
+      "id": 22,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es la exigencia de la tercera luz de freno?",
+      "image": "",
+      "alternatives": {
+        "a": "opcional",
+        "b": "obligatoria",
+        "c": "No aplica a categorías M",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "a"
+    },
+    {
+      "id": 23,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es la potencia mínima de la luz baja?",
+      "image": "",
+      "alternatives": {
+        "a": "20W",
+        "b": "10W",
+        "c": "25W",
+        "d": "55W"
+      },
+      "response": "c"
+    },
+    {
+      "id": 24,
+      "matter": "Materias especificas",
+      "theme": "La licencia de conducir de Clase A- Categoría II B tendrá una vigencia de…..",
+      "statement": "",
+      "image": "",
+      "alternatives": {
+        "a": "3 años",
+        "b": "5 años",
+        "c": "8 años",
+        "d": "2 años"
+      },
+      "response": "a"
+    },
+    {
+      "id": 25,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "Para obtener una licencia de conducir clase A categoría II B se requiere tener grado de instrucción mínimo de:",
+      "image": "",
+      "alternatives": {
+        "a": "Secundaria completa",
+        "b": "Primaria completa",
+        "c": "Secundaria incompleta",
+        "d": "Superior técnica"
+      },
+      "response": "a"
+    },
+    {
+      "id": 26,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "Para conducir vehículos de transporte terrestre de materiales peligrosos, ____ necesario contar con la licencia que corresponda a la categoría del vehículo que transporta los materiales peligrosos.",
+      "image": "",
+      "alternatives": {
+        "a": "No es.",
+        "b": "Es",
+        "c": "Depende de la mercancía que transporta",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "b"
+    },
+    {
+      "id": 27,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Las sanciones por las infracciones al servicio de transporte se encuentran comprendidas en:",
+      "image": "",
+      "alternatives": {
+        "a": "El Reglamento Nacional de Administración de Transporte.",
+        "b": "El Texto Único Ordenado del Reglamento Nacional de Tránsito - Código de Tránsito.",
+        "c": "El Reglamento Nacional de Inspecciones Técnicas Vehiculares.",
+        "d": "Todas las anteriores."
+      },
+      "response": "a"
+    },
+    {
+      "id": 28,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Con relación a las obligaciones del conductor del servicio de transporte terrestre. Marque la alternativa incorrecta:",
+      "image": "",
+      "alternatives": {
+        "a": "Debe ser titular de una licencia de conducir de la clase y categoría que corresponda al vehículo que conduce.",
+        "b": "Debe portar su licencia de conducir vigente, así como la documentación del vehículo.",
+        "c": "Debe conducir solo vehículos habilitados por la autoridad competente.",
+        "d": "Puede oponerse a la labor de supervisión y fiscalización de la autoridad competente."
+      },
+      "response": "d"
+    },
+    {
+      "id": 29,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "La edad máxima para conducir vehículos destinados al servicio de transporte terrestre es de:",
+      "image": "",
+      "alternatives": {
+        "a": "55 años.",
+        "b": "60 años.",
+        "c": "65 años.",
+        "d": "70 años."
+      },
+      "response": "d"
+    },
+    {
+      "id": 30,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "El servicio de transporte especial de personas es aquel que se presta:",
+      "image": "",
+      "alternatives": {
+        "a": "Sin regularidad ni uniformidad.",
+        "b": "Con regularidad y uniformidad.",
+        "c": "Sin regularidad y con uniformidad.",
+        "d": "Con regularidad y sin uniformidad"
+      },
+      "response": "a"
+    },
+    {
+      "id": 31,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "¿Cuál de los siguientes servicios no corresponde al servicio de transporte especial de personas?",
+      "image": "",
+      "alternatives": {
+        "a": "Diferenciado.",
+        "b": "Turístico.",
+        "c": "De trabajadores.",
+        "d": "De estudiantes."
+      },
+      "response": "a"
+    },
+    {
+      "id": 32,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Si un conductor atenta contra la integridad física del inspector durante la realización de sus funciones, será sancionado con:",
+      "image": "",
+      "alternatives": {
+        "a": "Cancelación de licencia de conducir e inhabilitación para obtener nueva licencia por tres (3) años.",
+        "b": "Suspensión de la licencia de conducir por tres (3) años.",
+        "c": "Cancelación de la licencia de conducir e inhabilitación definitiva para obtener nueva licencia. Multa de 0.5 UIT.",
+        "d": "Cancelación de la licencia de conducir por un (1) año e inhabilitación definitiva para obtener nueva licencia. Multa de 1 UIT."
+      },
+      "response": "c"
+    },{
+      "id": 33,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "En el servicio de transporte la vigencia de la habilitación del conductor es ….y de renovación automática una vez acreditada la vigencia de la licencia de conducir de la categoría correspondiente al vehículo habilitado",
+      "image": "",
+      "alternatives": {
+        "a": "Anual.",
+        "b": "Cada dos años.",
+        "c": "Cada cinco años.",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "a"
+    },
+    {
+      "id": 34,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "¿A partir de qué edad el conductor del servicio de transporte deberá rendir y aprobar los exámenes médicos semestrales que establezca la Dirección General de Transporte Terrestre (DGTT)?",
+      "image": "",
+      "alternatives": {
+        "a": "60 años.",
+        "b": "55 años.",
+        "c": "65 años.",
+        "d": "No existe dicho exigencia en la norma."
+      },
+      "response": "c"
+    },
+    {
+      "id": 35,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Si un presunto infractor paga voluntariamente dentro de los cinco días hábiles de levantada el acta de control, la multa que corresponda a la infracción imputada, ésta será reducida en:",
+      "image": "",
+      "alternatives": {
+        "a": "20% de su monto.",
+        "b": "30% de su monto.",
+        "c": "40% de su monto.",
+        "d": "50% de su monto."
+      },
+      "response": "d"
+    },
+    {
+      "id": 36,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Cuando hablamos del «servicio de transporte especial de ámbito provincial, prestado en vehículos M1 de la clasificación vehicular, que tiene por objeto el traslado de personas desde un punto de origen hasta un punto de destino señalado por quien lo contrata.», nos estamos refiriendo al:",
+      "image": "",
+      "alternatives": {
+        "a": "Servicio de transporte de trabajadores.",
+        "b": "Servicio de transporte de mercancías.",
+        "c": "Servicio de transporte de taxi.",
+        "d": "Servicio de transporte turístico."
+      },
+      "response": "c"
+    },
+    {
+      "id": 37,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Es la medida preventiva que consiste en el traslado del vehículo fuera de la vía pública dispuesto por la autoridad competente y/o PNP, utilizando cualquier medio eficaz y proporcional al fin que se persigue:",
+      "image": "",
+      "alternatives": {
+        "a": "Remoción del vehículo.",
+        "b": "Retención del vehículo.",
+        "c": "Internamiento del vehículo.",
+        "d": "Interrupción del viaje."
+      },
+      "response": "a"
+    },
+    {
+      "id": 38,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Con relación a las obligaciones del conductor del servicio de transporte terrestre, es obligatorio que el conductor ….",
+      "image": "",
+      "alternatives": {
+        "a": "No deba tener su licencia de conducir suspendida, retenida o cancelada",
+        "b": "No deba llegar o exceder de tope máximo de 100 puntos firmes",
+        "c": "No tenga impuesta dos o más infracciones Muy Graves, cinco o más infracciones Graves o una infracción Muy Grave y tres o más infracciones Graves",
+        "d": "Todas las anteriores."
+      },
+      "response": "d"
+    },
+    {
+      "id": 39,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "El servicio de transporte debe ser prestado a través de vehículos que:",
+      "image": "",
+      "alternatives": {
+        "a": "Se encuentren habilitados.",
+        "b": "Hayan aprobado la Inspección Técnica Vehicular, cuando corresponda.",
+        "c": "Cuenten con póliza de Seguro Obligatorio de Accidentes de Tránsito vigente o Certificado Contra Accidentes de Tránsito, según corresponda.",
+        "d": "Todas las anteriores."
+      },
+      "response": "d"
+    },
+    {
+      "id": 40,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "¿Qué sanción le corresponde al conductor que presta el servicio sin contar con autorización otorgada por la autoridad competente o en una modalidad o ámbito diferente al autorizado?",
+      "image": "",
+      "alternatives": {
+        "a": "Multa de 1 UIT",
+        "b": "Multa de 2 UIT",
+        "c": "Multa de 0.5 UIT",
+        "d": "Multa de 0.05 UIT"
+      },
+      "response": "a"
+    },
+    {
+      "id": 41,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Con relación a las jornadas de conducción. Marque la alternativa correcta:",
+      "image": "",
+      "alternatives": {
+        "a": "No debe exceder las cinco (5) horas de conducción continuas en el servicio diurno, ni las cuatro (4) horas en el servicio nocturno.",
+        "b": "No debe exceder las cuatro (4) horas de conducción continuas en el servicio diurno, ni las cuatro (5) horas en el servicio nocturno.",
+        "c": "No debe exceder las cinco (5) horas de conducción continuas en el servicio diurno, ni las cuatro (4.5) horas en el servicio nocturno.",
+        "d": "No debe exceder las cuatro (4) horas de conducción continuas en el servicio diurno, ni las tres (3) horas en el servicio nocturno."
+      },
+      "response": "a"
+    },
+    {
+      "id": 42,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Para efectos de la jornada de conducción, ¿qué horario es considerado como nocturno?",
+      "image": "",
+      "alternatives": {
+        "a": "El comprendido entre las 9:00 p.m. y 6:00 a.m.",
+        "b": "El comprendido entre las 10:00 p.m. y las 5:59 a.m.",
+        "c": "El comprendido entre las 11:00 p.m. y las 5:59 a.m.",
+        "d": "El comprendido entre las 11:00 p.m. y las 6:00 a.m."
+      },
+      "response": "b"
+    },
+    {
+      "id": 43,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Para efectos de la jornada de conducción, ¿qué horario es considerado como diurno?",
+      "image": "",
+      "alternatives": {
+        "a": "El comprendido entre las 6:00 a.m. y 9:59 p.m.",
+        "b": "El comprendido entre las 6:00 a.m. y 10:00 p.m.",
+        "c": "El comprendido entre las 5:59 a.m. y 10:00 p.m.",
+        "d": "El comprendido entre las 5:00 a.m. y 9:00 p.m."
+      },
+      "response": "a"
+    },
+    {
+      "id": 44,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Es el documento que sustenta el traslado de bienes por el transportista autorizado para prestar el servicio de transporte terrestre de mercancías:",
+      "image": "",
+      "alternatives": {
+        "a": "Hoja de ruta",
+        "b": "Flete",
+        "c": "Licencia de conducir",
+        "d": "Guía de Remisión de Transportista"
+      },
+      "response": "d"
+    },
+    {
+      "id": 45,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Si el conductor transporta a sabiendas, productos explosivos, inflamables corrosivos, venenosos o similares en un vehículo del servicio de transporte de personas, comete una infracción calificada como:",
+      "image": "",
+      "alternatives": {
+        "a": "Muy grave",
+        "b": "Grave",
+        "c": "Leve",
+        "d": "No es ni la alternativa a) ni la alternativa"
+      },
+      "response": "a"
+    },
+    {
+      "id": 46,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Es la persona natural o jurídica por cuyo encargo se transporte mercancías en un vehículo habilitado para la prestación del servicio de transporte público de mercancías:",
+      "image": "",
+      "alternatives": {
+        "a": "Transportista",
+        "b": "Destinatario de carga",
+        "c": "Generador de carga",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "c"
+    },
+    {
+      "id": 47,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "El inspector de transporte es la persona acreditada u homologada para:",
+      "image": "",
+      "alternatives": {
+        "a": "Realizar acciones de control, supervisión y detección de incumplimientos o infracciones a las normas del servicio de transporte terrestre.",
+        "b": "Imponer las papeletas de infracción al tránsito",
+        "c": "Emitir la resolución de sanción por las infracciones a las normas del servicio de transporte terrestre",
+        "d": "Todas las anteriores."
+      },
+      "response": "d"
+    },
+    {
+      "id": 48,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Los terminales terrestres son obligatorios para el servicio público de transporte regular de personas en el ámbito:",
+      "image": "",
+      "alternatives": {
+        "a": "Nacional y Regional.",
+        "b": "Regional y Provincial.",
+        "c": "Nacional, Regional y Provincial.",
+        "d": "Distrital, Provincial, Regional, Nacional e Internacional."
+      },
+      "response": "c"
+    },
+    {
+      "id": 49,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "¿Cuál es el documento levantado por el inspector de transporte, en la que se hace constar los resultados de acción de control?",
+      "image": "",
+      "alternatives": {
+        "a": "Acta de Control.",
+        "b": "Papeleta de infracción levantada por la PNP.",
+        "c": "Acto administrativo emitido por el funcionario que lleva a cabo el procedimiento administrativo de sanción.",
+        "d": "Todas las Anteriores."
+      },
+      "response": "a"
+    },
+    {
+      "id": 50,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "El Reglamento Nacional de Administración de Transporte no comprende el servicio de :",
+      "image": "",
+      "alternatives": {
+        "a": "Trabajadores",
+        "b": "Servicio de Transporte en vehículos menores.",
+        "c": "Servicio de Transporte en auto colectivo.",
+        "d": "Servicio de Transporte Turístico."
+      },
+      "response": "b"
+    },
+    {
+      "id": 51,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "La auditoría anual es una modalidad de fiscalización del servicio de transporte, que es realizada aleatoriamente a los transportistas, a la infraestructura complementaria de transporte y a…….....",
+      "image": "",
+      "alternatives": {
+        "a": "Los conductores habilitados",
+        "b": "Los establecimientos de salud que realizan los exámenes médicos a los conductores",
+        "c": "La red vial nacional",
+        "d": "Todas las anteriores"
+      },
+      "response": "a"
+    },
+    {
+      "id": 52,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "¿Qué sanción pecuniaria acarrea no informar por escrito a la autoridad competente dentro de las cuarenta y ocho (48) horas de producidos los accidentes de tránsito con daños personales ocurridos durante la operación del servicio?",
+      "image": "",
+      "alternatives": {
+        "a": "Multa de 1 UIT.",
+        "b": "Multa de 2 UIT.",
+        "c": "Multa de 0.5 UIT",
+        "d": "No está tipificada esta conducta como infracción."
+      },
+      "response": "c"
+    },
+    {
+      "id": 53,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "De las siguientes alternativas, ¿cuál de ellas no es una forma a través de la cual concluye el procedimiento sancionador?",
+      "image": "",
+      "alternatives": {
+        "a": "Resolución de sanción.",
+        "b": "Resolución de archivamiento.",
+        "c": "Pago voluntario de la total de sanción.",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "d"
+    },
+    {
+      "id": 54,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "¿Cuál de las siguientes alternativas no es una medida preventiva?",
+      "image": "",
+      "alternatives": {
+        "a": "Suspensión de la licencia de conducir.",
+        "b": "Interrupción del viaje.",
+        "c": "Remoción del vehículo.",
+        "d": "Suspensión precautoria del servicio."
+      },
+      "response": "a"
+    },
+    {
+      "id": 55,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Los medios probatorios que sustentan los incumplimientos y las infracciones son:",
+      "image": "",
+      "alternatives": {
+        "a": "El acta de control levantada por el inspector de transporte.",
+        "b": "El documento por el que se da cuenta de la detección de algún incumplimiento o infracción en la fiscalización de gabinete.",
+        "c": "Las actas de inspecciones, constataciones, ocurrencias, formularios y similares levantados por otras instituciones en el ejercicio de sus funciones.",
+        "d": "Todas las anteriores."
+      },
+      "response": "d"
+    },
+    {
+      "id": 56,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "La sanción que le corresponde al conductor por obstruir la labor de fiscalización, cuando incurre en actos de simulación, suplantación u otras conductas destinadas a hacer incurrir en error a la autoridad competente respecto de la autorización para prestar el servicio, es:",
+      "image": "",
+      "alternatives": {
+        "a": "Suspensión por 30 días de la autorización.",
+        "b": "Suspensión por 60 días de la autorización.",
+        "c": "Suspensión de la licencia de conducir por 90 días y multa de 0.5 UIT.",
+        "d": "Suspensión por 120 días de la autorización."
+      },
+      "response": "c"
+    },
+    {
+      "id": 57,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "En el servicio de transporte el……….debe velar por el cumplimiento de las obligaciones que corresponden al conductor",
+      "image": "",
+      "alternatives": {
+        "a": "Generador de carga",
+        "b": "Usurario del servicio ",
+        "c": "Transportista",
+        "d": "La a) y b) son correctas"
+      },
+      "response": "c"
+    },
+    {
+      "id": 58,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "La duración acumulada de jornadas de conducción no deberá exceder:",
+      "image": "",
+      "alternatives": {
+        "a": "De doce (12) horas en un periodo de veinticuatro (24) horas, contadas desde el inicio de la conducción en un servicio.",
+        "b": "De ocho (8) horas en un periodo de veinticuatro (24) horas, contadas desde el inicio de la conducción en un servicio.",
+        "c": "De diez (10) horas en un periodo de treinta y seis (36) horas, contadas desde el inicio de la conducción en un servicio.",
+        "d": "De diez (10) horas en un periodo de veinticuatro (24) horas, contadas desde el inicio de la conducción en un servicio."
+      },
+      "response": "d"
+    },
+    {
+      "id": 59,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "¿A partir de qué edad los menores de edad deben ocupar su propio asiento?",
+      "image": "",
+      "alternatives": {
+        "a": "A partir de los cinco (5) años de edad.",
+        "b": "A partir de los tres (3) años de edad.",
+        "c": "A partir de los siete (7) años de edad.",
+        "d": "No edad mínima para que los menores de edad ocupen su propio asiento."
+      },
+      "response": "a"
+    },
+    {
+      "id": 60,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "En materia de transporte y tránsito terrestre, la Superintendencia de Transporte Terrestre de personas, carga y Mercancias- SUTRAN, es ….",
+      "image": "",
+      "alternatives": {
+        "a": "La entidad encargada de regular la infraestructura de transporte de uso público",
+        "b": "La entidad que tiene como función la promoción del mercado y la protección de los derechos de los consumidores",
+        "c": "El órgano rector a nivel nacional en materia de transporte y tránsito terrestre.",
+        "d": "La autoridad encargada de fiscalizar el servicio de transporte de personas y carga de ámbito nacional"
+      },
+      "response": "d"
+    },
+    {
+      "id": 61,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "¿Pueden viajar dos personas en un mismo asiento?  ",
+      "image": "",
+      "alternatives": {
+        "a": "Nunca se da este supuesto.",
+        "b": "Sí, cuando una de ellas es un menor de cinco (5) años de edad.",
+        "c": "Sí, cuando una de ellas es un menor de tres (3) años de edad.",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "b"
+    },
+    {
+      "id": 62,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "En el servicio de transporte estándar de ámbito provincial, está permitido:",
+      "image": "",
+      "alternatives": {
+        "a": "El viaje de personas sentadas y de pie, respetando la capacidad prevista por el fabricante.",
+        "b": "El transporte de mercancías correctamente estibadas",
+        "c": "El viaje de personas sentadas y de pie, en el lugar donde fácilmente puedan ser ubicadas",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "a"
+    },
+    {
+      "id": 63,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "De las entidades que se indican a continuación, ¿cuál de ellas no es una autoridad competente en materia de transporte y tránsito terrestre?",
+      "image": "",
+      "alternatives": {
+        "a": "El Ministerio de Transportes y Comunicaciones.",
+        "b": "Las municipalidades provinciales y distritales. ",
+        "c": "El Consejo Nacional de Seguridad Vial.",
+        "d": "La Policía Nacional del Perú."
+      },
+      "response": "c"
+    },
+    {
+      "id": 64,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "En el servicio de transporte de personas de ámbito provincial, el ascenso y descenso de los usuarios se podrá realizar en:",
+      "image": "",
+      "alternatives": {
+        "a": "Los lugares autorizados o paraderos de ruta.",
+        "b": "En los paraderos urbanos e interurbanos.",
+        "c": "En cualquier punto de la vía, siempre que se tome la debida precaución.",
+        "d": "Todas las anteriores."
+      },
+      "response": "b"
+    },
+    {
+      "id": 65,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Al conductor que durante una acción de fiscalización se niega a entregar la información o documentación sobre su habilitación como conductor del servicio de transporte, se le debe aplicar la siguiente sanción:",
+      "image": "",
+      "alternatives": {
+        "a": "Suspensión de la licencia de conducir por 30 días calendario.",
+        "b": "Suspensión de la licencia de conducir por 90 días calendario y multa de 0.5 UIT.",
+        "c": "Suspensión de la licencia de conducir por 10 días calendario.",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "b"
+    },
+    {
+      "id": 66,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Es el servicio de transporte de personas y de mercancías en un vehículo autorizado para este tipo de transporte:",
+      "image": "",
+      "alternatives": {
+        "a": "Servicio de transporte estándar.",
+        "b": "Servicio de transporte mixto.",
+        "c": "Servicio de transporte diferenciado.",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "b"
+    },
+    {
+      "id": 67,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Escoja el elemento que no pertenece al sistema de transmisión de un vehículo",
+      "image": "",
+      "alternatives": {
+        "a": "Plato",
+        "b": "embrague",
+        "c": "collarín",
+        "d": "trapecio"
+      },
+      "response": "d"
+    },
+    {
+      "id": 68,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Escoja el elemento que no pertenece al sistema de suspensión de un vehículo",
+      "image": "",
+      "alternatives": {
+        "a": "Balancín",
+        "b": "resorte",
+        "c": "amortiguador  ",
+        "d": "muelle"
+      },
+      "response": "a"
+    },
+    {
+      "id": 69,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Escoja el elemento que no pertenece al sistema de alimentación de combustible de un vehículo",
+      "image": "",
+      "alternatives": {
+        "a": "Bomba",
+        "b": "inyector",
+        "c": "flotador  ",
+        "d": "termostato"
+      },
+      "response": "d"
+    },
+    {
+      "id": 70,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Escoja que elemento no corresponde al sistema de alimentación de un vehículo",
+      "image": "",
+      "alternatives": {
+        "a": "Filtro de combustible",
+        "b": "cañerías",
+        "c": "bomba  ",
+        "d": "varilla"
+      },
+      "response": "d"
+    }
+  ]
+}

@@ -1,0 +1,1994 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "El Decreto Supremo que aprueba el Reglamento Nacional de Transporte Terrestre de Materiales y Residuos Peligrosos es:",
+      "image": "",
+      "alternatives": {
+        "a": "Decreto Supremo 058-2003-MTC",
+        "b": "Decreto Supremo 017-2009-MTC",
+        "c": "Decreto Supremo 021-2008-MTC",
+        "d": "Decreto Supremo 007-2016-MTC"
+      },
+      "response": "c"
+    },
+    {
+      "id": 2,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Según el Reglamento, el materiales peligrosos se identificará por:",
+      "image": "",
+      "alternatives": {
+        "a": "El número indicado en la lista de mercancías peligrosas del Libro Naranja de las Naciones Unidas.",
+        "b": "El nombre consignado por el fabricante.",
+        "c": "El documento que emite el transportista",
+        "d": "La clase 1, explosivos"
+      },
+      "response": "a"
+    },
+    {
+      "id": 3,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Los rótulos de un vehículo que transporta material peligroso deberán ceñirse a lo establecido en",
+      "image": "",
+      "alternatives": {
+        "a": "La Ley 27181, Ley General de Transporte Terrestre",
+        "b": "El Reglamento Nacional de Vehículos",
+        "c": "El Libro Naranja de las Naciones Unidas.",
+        "d": "Libro Púrpura"
+      },
+      "response": "c"
+    },
+    {
+      "id": 4,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Las clases de materiales peligrosos son:",
+      "image": "",
+      "alternatives": {
+        "a": "5 clases",
+        "b": "9 clases",
+        "c": "2 clases",
+        "d": "3 clases"
+      },
+      "response": "b"
+    },
+    {
+      "id": 5,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "El conductor deberá contar con la capacitación especializada sobre el manejo de materiales y residuos peligrosos cuando el transporte se realice:",
+      "image": "",
+      "alternatives": {
+        "a": "Transporte en Cisterna",
+        "b": "Transporte de materiales y residuos peligros clase 2 y 3",
+        "c": "Transporte de materiales y residuos peligros clase 2 y 9",
+        "d": "Todas las anteriores"
+      },
+      "response": "a"
+    },
+    {
+      "id": 6,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Las materias que comprende la capacitación especializada para el transporte terrestre de materiales peligrosos es:",
+      "image": "",
+      "alternatives": {
+        "a": "Transporte en cisternas",
+        "b": "Transporte de materiales y residuos de la clase 1",
+        "c": "Transporte de materiales y residuos de la clase 7",
+        "d": "Todas las anteriores"
+      },
+      "response": "d"
+    },
+    {
+      "id": 7,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "La nota aprobatoria mínima para las capacitaciones sobre el manejo de materiales y residuos peligrosos es :",
+      "image": "",
+      "alternatives": {
+        "a": "90 %",
+        "b": "70 %",
+        "c": "80 %",
+        "d": "85 %"
+      },
+      "response": "b"
+    },
+    {
+      "id": 8,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Un material peligroso es aquel que:",
+      "image": "",
+      "alternatives": {
+        "a": "Por sus características o manejo representa un riesgo a la capa de ozono.",
+        "b": "Por su color y cantidad representa un riego significativo para la salud el ambiente o la propiedad.",
+        "c": "Por su estado natural manejo y temperatura representa un riego significativo para la salud el ambiente o la propiedad.",
+        "d": "Por sus características fisicoquímicas y/o biológicas o por el manejo al que son o van a ser sometidos, pueden generar o desprender polvos, humos, gases, líquidos, vapores o fibras infecciosas, irritantes, inflamables, explosivos, corrosivos, asfixiantes, tóxicos o de otra naturaleza peligrosa o radiaciones ionizantes en cantidades que representan un riesgo significativo para la salud, el ambiente o a la propiedad."
+      },
+      "response": "d"
+    },
+    {
+      "id": 9,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Está prohibido en el transporte de materiales y residuos peligrosos :",
+      "image": "",
+      "alternatives": {
+        "a": "Prestar apoyo en caso de una emergencia",
+        "b": "cargar y transportar materiales y/o residuos peligrosos, conjuntamente con alimentos, medicamentos u objetos destinados al uso humano y/o animal.",
+        "c": "Tener la Guía de Remisión-Remitente en el transporte",
+        "d": "Todas las anteriores"
+      },
+      "response": "b"
+    },
+    {
+      "id": 10,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Los conductores de unidades vehiculares que transporten materiales y/o residuos peligrosos, deberán contar y portar durante la operación de transporte:",
+      "image": "",
+      "alternatives": {
+        "a": "La licencia de conducir que corresponda a la categoría del vehículo que conduce.",
+        "b": "La licencia de conducir de categoría especial para el transporte terrestre de materiales y residuos peligrosos",
+        "c": "La certificación de su licencia de conducir",
+        "d": "Su licencia de conducir vigente de la categoría que corresponda al vehículo que conduce y su licencia de conducir de categoría especial."
+      },
+      "response": "d"
+    },
+    {
+      "id": 11,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Se considera como infracción grave del conductor cuando:",
+      "image": "",
+      "alternatives": {
+        "a": "Iniciar el transporte cuando el vehículo y/o unidad de carga no cuentan con la rotulación que corresponda al material y/o residuo peligroso declarado en la Guía de remisión - remitente",
+        "b": "No Portar en la cabina la documentación exigida para el transporte",
+        "c": "No utiliza el uniforme de la empresa transportista",
+        "d": "Todas las anteriores"
+      },
+      "response": "a"
+    },
+    {
+      "id": 12,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Es considerado como uno de los requisitos para la obtención de la licencia de conducir de categoría especial",
+      "image": "",
+      "alternatives": {
+        "a": "Copia de certificado de capacitación en Manejo Defensivo",
+        "b": "Copia de certificado de estudios que acredite contar con secundaria completa",
+        "c": "Copia certificada de constancia de trabajo",
+        "d": "Todas las anteriores"
+      },
+      "response": "b"
+    },
+    {
+      "id": 13,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Durante el transporte materiales y/o residuos peligrosos el conductor deberá:",
+      "image": "",
+      "alternatives": {
+        "a": "Transitar con un vehículo que presente defectos mecánicos.",
+        "b": "No solicitar apoyo policial en caso de congestionamiento vehicular",
+        "c": "Transportar únicamente personas autorizadas por el transportista",
+        "d": "Todas las anteriores"
+      },
+      "response": "c"
+    },
+    {
+      "id": 14,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "En el transporte de materiales y residuos peligrosos, la municipalidad provincial es competente para:",
+      "image": "",
+      "alternatives": {
+        "a": "Otorgar el permiso especial para el transporte terrestre de materiales y/o residuos peligrosos",
+        "b": "Establecer los requisitos para el transporte",
+        "c": "fiscalizar a los conductores",
+        "d": "Señalar las vías alternas para el tránsito de los vehículos y unidades de carga en los que se transporta materiales y/o residuos peligrosos"
+      },
+      "response": "d"
+    },
+    {
+      "id": 15,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "La autoridad encargada de fiscalizar y sancionar al personal que interviene en la operación de transporte de materiales y residuos peligrosos.",
+      "image": "",
+      "alternatives": {
+        "a": "Ministerio de Transportes y Comunicaciones",
+        "b": "SUNAT",
+        "c": "La Policía Nacional del Perú",
+        "d": "Superintendencia de Transporte Terrestre de Personas, Carga y Mercancías- SUTRAN."
+      },
+      "response": "d"
+    },
+    {
+      "id": 16,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "La actualización de la capacitación básica para el personal que interviene en la operación del transporte terrestre de materiales y/o residuos peligrosos se realizará cada:",
+      "image": "",
+      "alternatives": {
+        "a": "1 año",
+        "b": "2 años",
+        "c": "3 años",
+        "d": "ninguna de las anteriores"
+      },
+      "response": "c"
+    },
+    {
+      "id": 17,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "El certificado de capacitación del personal que interviene en la operación de transporte terrestre de materiales y/o residuos peligrosos es expedido por",
+      "image": "",
+      "alternatives": {
+        "a": "Las escuelas de conductores",
+        "b": "Por los gobiernos regionales",
+        "c": "Por la Dirección General de Transporte Terrestre",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "c"
+    },
+    {
+      "id": 18,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "¿Cuál es la vigencia de la licencia de conducir de categoría especial?",
+      "image": "",
+      "alternatives": {
+        "a": "2 años.",
+        "b": "4 años.",
+        "c": "10 años.",
+        "d": "3 años."
+      },
+      "response": "d"
+    },
+    {
+      "id": 19,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "La pérdida de la vigencia de la licencia de conducir de vehículos motorizados trae como consecuencia:",
+      "image": "",
+      "alternatives": {
+        "a": "La suspensión de la licencia de conducir categoría especial.",
+        "b": "La pérdida de la licencia de conducir categoría especial",
+        "c": "Renovación de la Licencia de Categoría Especial",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "b"
+    },
+    {
+      "id": 20,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Es requisito para obtener la licencia de categoría especial",
+      "image": "",
+      "alternatives": {
+        "a": "El certificado domiciliario",
+        "b": "La partida de nacimiento",
+        "c": "Copia del certificado de examen médico psicosomático apto.",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "c"
+    },
+    {
+      "id": 21,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Durante la operación de transporte de materiales y residuos peligrosos, el conductor está obligado a interrumpir el viaje cuando:",
+      "image": "",
+      "alternatives": {
+        "a": "Se presenten condiciones meteorológicas adversas que impidan la visibilidad del conductor.",
+        "b": "Se presenten desperfectos mecánicos del vehículo que pongan en riesgo la salud humana, el ambiente y la propiedad.",
+        "c": "Cuando verifique fugas de los materiales y residuos peligrosos que pongan en riesgo la salud humana, el ambiente y la propiedad.",
+        "d": "Todas las anteriores"
+      },
+      "response": "d"
+    },
+    {
+      "id": 22,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Al tanque utilizado para el almacenamiento y transporte de materiales en estado líquido o gaseoso se le denomina:",
+      "image": "",
+      "alternatives": {
+        "a": "Cisterna",
+        "b": "Convoy",
+        "c": "Contenedor",
+        "d": "Vehículo"
+      },
+      "response": "a"
+    },
+    {
+      "id": 23,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Las infracciones a las normas de transporte terrestre de MATPEL, se clasifican en:",
+      "image": "",
+      "alternatives": {
+        "a": "Leves, graves, muy graves.",
+        "b": "Leves, sancionadoras, muy graves.",
+        "c": "Sancionadoras, punitivas, muy graves.",
+        "d": "En ninguna de las anteriores"
+      },
+      "response": "a"
+    },
+    {
+      "id": 24,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "En el transporte de materiales y/o residuos peligrosos está prohibido:",
+      "image": "",
+      "alternatives": {
+        "a": "El transporte de materiales y/o residuos peligrosos incompatibles",
+        "b": "El transporte de materiales y residuos peligrosos conjuntamente con alimentos, medicamentos u objetos destinados al uso humano o animal",
+        "c": "El transporte de materiales y residuos peligrosos compatibles",
+        "d": "Sólo a) y b)"
+      },
+      "response": "d"
+    },
+    {
+      "id": 25,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Sólo se realizará el transbordo y/o trasiego de materiales y residuos peligrosos, en caso de:",
+      "image": "",
+      "alternatives": {
+        "a": "Cambio de itinerario",
+        "b": "Emergencia.",
+        "c": "Ambas respuestas son correctas",
+        "d": "Si lo realiza personal de SUTRAN"
+      },
+      "response": "b"
+    },
+    {
+      "id": 26,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "No interrumpir el viaje cuando las condiciones meteorológicas impidan la visibilidad del conductor que transporta MATPEL, es una falta:",
+      "image": "",
+      "alternatives": {
+        "a": "Grave.",
+        "b": "Muy grave",
+        "c": "Leve.",
+        "d": "Ninguna de ellas"
+      },
+      "response": "a"
+    },
+    {
+      "id": 27,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "En caso de derrame, fuga o pérdida del material peligroso, el conductor debe:",
+      "image": "",
+      "alternatives": {
+        "a": "Aplicar el artículo 58 del Reglamento",
+        "b": "Aplicar el plan de emergencia",
+        "c": "Aplicar las instrucciones del transportista",
+        "d": "Aplicar el plan de contingencia"
+      },
+      "response": "d"
+    },
+    {
+      "id": 28,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "El rótulo que identifica al material peligroso como explosivo es :",
+      "image": "",
+      "alternatives": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "a_img": "/images/questions/aiiic/28_a.jpg",
+        "b_img": "/images/questions/aiiic/28_b.jpg",
+        "c_img": "/images/questions/aiiic/28_c.jpg",
+        "d_img": "/images/questions/aiiic/28_d.jpg"
+      },
+      "response": "d"
+    },
+    {
+      "id": 29,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Los rótulos que identifican al material peligroso como líquidos inflamables son:",
+      "image": "",
+      "alternatives": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "a_img": "/images/questions/aiiic/29_a.jpg",
+        "b_img": "/images/questions/aiiic/29_b.jpg",
+        "c_img": "/images/questions/aiiic/29_c.jpg",
+        "d_img": "/images/questions/aiiic/29_d.jpg"
+      },
+      "response": "a"
+    },
+    {
+      "id": 30,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Los rótulos que identifican al material peligrosos como gases inflamables son:",
+      "image": "",
+      "alternatives": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "a_img": "/images/questions/aiiic/30_a.jpg",
+        "b_img": "/images/questions/aiiic/30_b.jpg",
+        "c_img": "/images/questions/aiiic/30_c.jpg",
+        "d_img": "/images/questions/aiiic/30_d.jpg"
+      },
+      "response": "c"
+    },
+    {
+      "id": 31,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Los rótulos que identifican al material peligrosos como sólido inflamable son:  ",
+      "image": "",
+      "alternatives": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "a_img": "/images/questions/aiiic/31_a.jpg",
+        "b_img": "/images/questions/aiiic/31_b.jpg",
+        "c_img": "/images/questions/aiiic/31_c.jpg",
+        "d_img": "/images/questions/aiiic/31_d.jpg"
+      },
+      "response": "a"
+    },
+    {
+      "id": 32,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "El rótulo que identifica al material peligroso como sustancia corburente es:",
+      "image": "",
+      "alternatives": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "a_img": "/images/questions/aiiic/32_a.jpg",
+        "b_img": "/images/questions/aiiic/32_b.jpg",
+        "c_img": "/images/questions/aiiic/32_c.jpg",
+        "d_img": "/images/questions/aiiic/32_d.jpg"
+      },
+      "response": "d"
+    },
+    {
+      "id": 33,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "El rótulo que identifica al material peligroso como peróxidos orgánicos es:",
+      "image": "",
+      "alternatives": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "a_img": "/images/questions/aiiic/33_a.jpg",
+        "b_img": "/images/questions/aiiic/33_b.jpg",
+        "c_img": "/images/questions/aiiic/33_c.jpg",
+        "d_img": "/images/questions/aiiic/33_d.jpg"
+      },
+      "response": "b"
+    },
+    {
+      "id": 34,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "El rótulo que identifica al material peligroso como sustancia tóxica es:",
+      "image": "",
+      "alternatives": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "a_img": "/images/questions/aiiic/34_a.jpg",
+        "b_img": "/images/questions/aiiic/34_b.jpg",
+        "c_img": "/images/questions/aiiic/34_c.jpg",
+        "d_img": "/images/questions/aiiic/34_d.jpg"
+      },
+      "response": "a"
+    },
+    {
+      "id": 35,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "El rótulo que identifica al material peligroso como sustancia infecciosa es:",
+      "image": "",
+      "alternatives": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "Ninguna de las anteriores",
+        "a_img": "/images/questions/aiiic/34_a.jpg",
+        "b_img": "/images/questions/aiiic/34_b.jpg",
+        "c_img": "/images/questions/aiiic/34_c.jpg",
+        "d_img": ""
+      },
+      "response": "b"
+    },
+    {
+      "id": 36,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Los rotulos que identifican al material peligroso como radioactivo son:",
+      "image": "",
+      "alternatives": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "a_img": "/images/questions/aiiic/36_a.jpg",
+        "b_img": "/images/questions/aiiic/36_b.jpg",
+        "c_img": "/images/questions/aiiic/36_c.jpg",
+        "d_img": "/images/questions/aiiic/36_d.jpg"
+      },
+      "response": "c"
+    },
+    {
+      "id": 37,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "El rótulo que identifica al material peligroso como corrosivo es:",
+      "image": "",
+      "alternatives": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "a_img": "/images/questions/aiiic/37_a.jpg",
+        "b_img": "/images/questions/aiiic/37_b.jpg",
+        "c_img": "/images/questions/aiiic/37_c.jpg",
+        "d_img": "/images/questions/aiiic/37_d.jpg"
+      },
+      "response": "b"
+    },
+    {
+      "id": 38,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "El rótulo que identifica al material peligroso como sustancias y objetos varios, incluido las sustancias peligrosas para el medio ambiente es:",
+      "image": "",
+      "alternatives": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": "",
+        "a_img": "/images/questions/aiiic/38_a.jpg",
+        "b_img": "/images/questions/aiiic/38_b.jpg",
+        "c_img": "/images/questions/aiiic/38_c.jpg",
+        "d_img": "/images/questions/aiiic/38_d.jpg"
+      },
+      "response": "b"
+    },
+    {
+      "id": 39,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "El Reglamento de materiales y residuos peligrosos comprende los materiales peligrosos necesarios para la propulsión del medio de transporte o para el funcionamiento del equipo especializado que se utiliza durante la operación de transporte.",
+      "image": "",
+      "alternatives": {
+        "a": "Si",
+        "b": "No",
+        "c": "El Reglamento no lo señala.",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "b"
+    },
+    {
+      "id": 40,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Dirige la atención de emergencias o accidentes ocurridos durante el transporte de materiales y residuos peligrosos.",
+      "image": "",
+      "alternatives": {
+        "a": "Las municipalidades provinciales",
+        "b": "El Ministerio de Salud",
+        "c": "El Cuerpo General de Bomberos Voluntarios del Perú",
+        "d": "El Ministerio de Transportes y Comunicaciones"
+      },
+      "response": "c"
+    },
+    {
+      "id": 41,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "Los documentos que se deben portar durante la prestación del servicio de transporte de Materiales peligrosos",
+      "image": "",
+      "alternatives": {
+        "a": "Guía de remisión - remitente, Guía de remisión - transportista, Hoja resumen de seguridad, Certificado de habilitación vehicular expedido por la DGTT, Licencia de conducir de categoría especial del conductor, Copia del certificado del seguro obligatorio por accidentes de tránsito - SOAT, Copia de la póliza de seguro que señala el reglamento.",
+        "b": "Guía de remisión – remitente, Guía de remisión – transportista, Certificado de habilitación vehicular, expedido por la DGTT, Licencia de conducir de categoría especial del conductor, Copia del certificado del seguro obligatorio por accidentes de tránsito – SOAT",
+        "c": "Guía de remisión – transportista, Hoja resumen de seguridad, Certificado de habilitación vehicular, expedido por la DGTT, Licencia de conducir de categoría especial del conductor, Copia del certificado del seguro obligatorio por accidentes de tránsito – SOAT",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "a"
+    },
+    {
+      "id": 42,
+      "matter": "Materias especificas",
+      "theme": "Mercancías peligrosas",
+      "statement": "No permitir que la autoridad competente realice las acciones de fiscalización que señala el Reglamento de transporte terrestre de materiales peligrosos es una infracción:",
+      "image": "",
+      "alternatives": {
+        "a": "Leve",
+        "b": "Grave",
+        "c": "Muy Grave",
+        "d": "No se considera una falta"
+      },
+      "response": "b"
+    },
+    {
+      "id": 43,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es un elemento, característica o dispositivo considerados como requisito técnico general?",
+      "image": "",
+      "alternatives": {
+        "a": "Dispositivos de alumbrado y señalización óptica.",
+        "b": "Sistema de frenos",
+        "c": "Carrocería diseñada para evitar salpicaduras de las ruedas y/o protegida por guardafangos o escarpines",
+        "d": "Todas las anteriores"
+      },
+      "response": "d"
+    },
+    {
+      "id": 44,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿La instalación de las láminas retroreflectivas deben ser de acuerdo a las siguientes especificaciones?",
+      "image": "",
+      "alternatives": {
+        "a": "Las láminas deben ser fijadas horizontalmente en los laterales del vehículo y en la parte posterior, alternando los colores rojo y blanco.",
+        "b": "Las láminas deben colocarse a no menos de 300 mm y no más de 1,60 m sobre la superficie de la carretera.  ",
+        "c": "Las láminas podrán fijarse a la carrocería del vehículo por medio de diferentes elementos, tales como: remaches, tornillos, autoadhesivo o pegamento, asegurando la fijación permanente.  ",
+        "d": "Todas las anteriores"
+      },
+      "response": "d"
+    },
+    {
+      "id": 45,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Los vehículos de las categorías M2 destinados al servicio de transporte terrestre, M3 y N deben contar con láminas retroreflectivas?",
+      "image": "",
+      "alternatives": {
+        "a": "Solo los Vehículos M3.",
+        "b": "Si",
+        "c": "No es obligatorio.",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "b"
+    },
+    {
+      "id": 46,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Qué se entiende por neumático reencauchado?",
+      "image": "",
+      "alternatives": {
+        "a": "Neumático que luego de haberse desgastado, se vuelve operativo al efectuar nuevas ranuras en su banda de rodamiento.",
+        "b": "Neumático que luego de haberse desgastado, se vuelve operativo al adherirle una nueva banda de rodamiento.",
+        "c": "Que sin haberse desgastado, presenta ranuras y se le adhiere una banda de rodamiento.",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "b"
+    },
+    {
+      "id": 47,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A qué se denomina Sistema bi_combustible y Sistema Dual?",
+      "image": "",
+      "alternatives": {
+        "a": "sistema bi_combustible (gasolina/GNV) o sistema dual (combustible líquido/GNV)",
+        "b": "sistema bi_combustible (Diésel/GNV) o sistema dual (combustible líquido/GNV)",
+        "c": "sistema bi_combustible (gasolina/GNV) o sistema dual (GLP/GNV)",
+        "d": "ninguna de las anteriores"
+      },
+      "response": "a"
+    },
+    {
+      "id": 48,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuántas ruedas de repuesto deben contar los vehículos de categoría M y N?",
+      "image": "",
+      "alternatives": {
+        "a": "2.",
+        "b": "1",
+        "c": "no es obligatorio.",
+        "d": "ninguna de las anteriores"
+      },
+      "response": "b"
+    },
+    {
+      "id": 49,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es una característica adicional para los vehículos de las categorías M, según el Reglamento Nacional de Vehículos?",
+      "image": "",
+      "alternatives": {
+        "a": "Retrovisores y Asientos del conductor.",
+        "b": "Guardafangos.",
+        "c": "Bocina de sonido uniforme y continua y Fórmula rodante.",
+        "d": "a y c son correctas"
+      },
+      "response": "d"
+    },
+    {
+      "id": 50,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es el documento que acredita ante SUNARP las modificaciones efectuadas a las características registrables de los vehículos?",
+      "image": "",
+      "alternatives": {
+        "a": "Certificado de Revisión Técnica Vehicular.",
+        "b": "Certificado de conformidad de Conversión y modificación",
+        "c": "Certificado de Conformidad de Modificación",
+        "d": "Declaración Jurada de conformidad de Modificación"
+      },
+      "response": "c"
+    },
+    {
+      "id": 51,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es una medida preventivaque puede aplicar la autoridad competente, según en el Reglamento Nacional de Vehículos?",
+      "image": "",
+      "alternatives": {
+        "a": "Retención de la licencia de conducir.",
+        "b": "Retención de mercancía.",
+        "c": "Internamiento del vehículo.",
+        "d": "a y c son correctas."
+      },
+      "response": "c"
+    },
+    {
+      "id": 52,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es la definición que corresponde a la carrocería, de acuerdo al Reglamento Nacional de Vehículos?",
+      "image": "",
+      "alternatives": {
+        "a": "Estructura básica del vehículo, compuesta por el bastidor, el tren motriz, suspensión, dirección, ejes, ruedas y otras partes mecánicas relacionadas",
+        "b": "Estructura que se instala sobre el chasis o estructura autoportante, para el transporte de personas y/o mercancías",
+        "c": "Elemento mecánico que sirve de soporte del vehículo, aloja a las ruedas y permite la movilidad del mismo.",
+        "d": "Estructura básica del vehículo, que sirve de soporte del vehículo y se instala con el chasis."
+      },
+      "response": "b"
+    },
+    {
+      "id": 53,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Qué porcentaje como mínimo de transparencia debe tener los parabrisas de vidrio de seguridad?",
+      "image": "",
+      "alternatives": {
+        "a": "50%",
+        "b": "70%",
+        "c": "80%",
+        "d": "60%"
+      },
+      "response": "b"
+    },
+    {
+      "id": 54,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Qué porcentaje como máximo de oscurecimiento debe tener los parabrisas de vidrio de seguridad?",
+      "image": "",
+      "alternatives": {
+        "a": "40%",
+        "b": "20%.",
+        "c": "30%.",
+        "d": "50%"
+      },
+      "response": "c"
+    },
+    {
+      "id": 55,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿mas de ocho asientos, sin contar el asiento del conductor y peso bruto vehicular de 5 toneladas o menos?",
+      "image": "",
+      "alternatives": {
+        "a": "M2",
+        "b": "M3",
+        "c": "N3",
+        "d": "M1"
+      },
+      "response": "a"
+    },
+    {
+      "id": 56,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A cuál clase pertenecen los vehículos construidos exclusivamente para el transporte de pasajeros sentados?",
+      "image": "",
+      "alternatives": {
+        "a": "Clase I",
+        "b": "Clase II",
+        "c": "Clase III",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "c"
+    },
+    {
+      "id": 57,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A qué categoría pertenecen los vehículos de mas de ocho asientos, sin contar el asiento del conductor y peso bruto vehicular de más de 5 toneladas?",
+      "image": "",
+      "alternatives": {
+        "a": "M1",
+        "b": "M3",
+        "c": "M2",
+        "d": "N3"
+      },
+      "response": "b"
+    },
+    {
+      "id": 58,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A qué se denomina un ómnibus bi_articulado?",
+      "image": "",
+      "alternatives": {
+        "a": "Vehículo compuesto de tres secciones rígidas unidas entre sí por dos juntas articuladas permitiendo libre paso entre las secciones.",
+        "b": "Vehículo compuesto de dos secciones rígidas unidas entre sí por una junta articulada permitiendo libre paso entre una sección y otra.",
+        "c": "Vehículo con la carrocería monocasco autoportante a la cual se fija el conjunto direccional en la parte delantera y el conjunto del tren motriz en la parte posterior",
+        "d": "Ninguna de la anteriores"
+      },
+      "response": "a"
+    },
+    {
+      "id": 59,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Es obligatorio el Sistema de Freno Auxiliar para los vehículos de categoría M2 y M3?",
+      "image": "",
+      "alternatives": {
+        "a": "Si",
+        "b": "No, es opcional para ambos",
+        "c": "Para los vehículos de categoría M2 es opcional y para los de categoría M3 es obligatorio",
+        "d": "No se aplica para esas categorías"
+      },
+      "response": "c"
+    },
+    {
+      "id": 60,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Qué cantidad mínima de puertas de servicio deben tener los vehículos que se destinen al servicio de transporte escolar?",
+      "image": "",
+      "alternatives": {
+        "a": "1",
+        "b": "2",
+        "c": "Depende de la categoría M2 y M3",
+        "d": "3"
+      },
+      "response": "a"
+    },
+    {
+      "id": 61,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Qué cantidad mínima de salidas de emergencia deben tener los vehículos de categoría M2 y M3 que se destinen al servicio de transporte escolar?",
+      "image": "",
+      "alternatives": {
+        "a": "2 salidas de emergencia para ambas categorías ",
+        "b": "2 salidas de emergencia para la categoría M2 y 3 salidas de emergencia para la categoría M3",
+        "c": "1 Salida de emergencia para la categoría M2 y 2 salidas de emergencia para la categoría M3",
+        "d": "1 Salida de emergencia como mínimo para ambas categorías"
+      },
+      "response": "b"
+    },
+    {
+      "id": 62,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es la exigencia de la tercera luz de freno?",
+      "image": "",
+      "alternatives": {
+        "a": "opcional",
+        "b": "obligatoria",
+        "c": "No aplica a categorías M",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "a"
+    },
+    {
+      "id": 63,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es la potencia mínima de la luz baja?",
+      "image": "",
+      "alternatives": {
+        "a": "20W",
+        "b": "10W",
+        "c": "25W",
+        "d": "55W"
+      },
+      "response": "c"
+    },
+    {
+      "id": 64,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es porcentaje general para la tolerancia por eje o conjunto de ejes?",
+      "image": "",
+      "alternatives": {
+        "a": "3%",
+        "b": "5%",
+        "c": "8%",
+        "d": "4%"
+      },
+      "response": "b"
+    },
+    {
+      "id": 65,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es el porcentaje de la tolerancia en el control del ancho de la mercancía transportada?",
+      "image": "",
+      "alternatives": {
+        "a": "5% del ancho máximo del vehículo%",
+        "b": "3% del ancho del vehículo",
+        "c": "8% del ancho máximo del vehículo",
+        "d": "4% del ancho mínimo del vehículo"
+      },
+      "response": "a"
+    },
+    {
+      "id": 66,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es el porcentaje general de la tolerancia en el control de la altura de la mercancía transportada?",
+      "image": "",
+      "alternatives": {
+        "a": "5% de la altura máxima permitida del vehículo.",
+        "b": "3% de la altura máxima permitida del vehículo.",
+        "c": "4% de la altura máxima de la carrocería del vehículo",
+        "d": "6% de la altura máxima permitida del vehículo"
+      },
+      "response": "a"
+    },
+    {
+      "id": 67,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es la sanción al conductor por incurrir en supuestos de habitualidad por segunda vez?",
+      "image": "",
+      "alternatives": {
+        "a": "Suspensión de la licencia de conducir por un período de seis (6) meses",
+        "b": "Suspensión de la licencia conducir por un período de un (1) año",
+        "c": "Cancelación de la licencia e inhabilitación definitiva para obtener una nueva",
+        "d": "El doble de la multa que corresponda a la infracción"
+      },
+      "response": "b"
+    },
+    {
+      "id": 68,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A qué se le denomina capacidad de carga útil?",
+      "image": "",
+      "alternatives": {
+        "a": "Carga máxima que puede transportar un vehículo en función de su tara.",
+        "b": "Capacidad técnica máxima del camión determinada por el fabricante.",
+        "c": "Carga máxima que puede transportar un vehículo, sin exceder el peso bruto vehicular indicado por el fabricante.",
+        "d": "Ninguna de los anteriores"
+      },
+      "response": "c"
+    },
+    {
+      "id": 69,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A qué se le denomina capacidad de carga legal?",
+      "image": "",
+      "alternatives": {
+        "a": "Carga máxima que puede transportar un vehículo sin exceder peso bruto vehicular.",
+        "b": "Carga máxima que puede transportar un vehículo en función de su tara.",
+        "c": "Capacidad técnica máxima del camión determinada por el fabricante.",
+        "d": "Ninguna de los anteriores"
+      },
+      "response": "b"
+    },
+    {
+      "id": 70,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A qué se le denomina Peso Bruto Vehicular?",
+      "image": "",
+      "alternatives": {
+        "a": "Peso total del vehículo incluyendo tara más capacidad de carga legal.",
+        "b": "Peso total del vehículo incluyendo la tara pero no la capacidad de carga.",
+        "c": "Peso total del vehículo determinado por el fabricante que incluye la tara y la capacidad de carga.",
+        "d": "Ninguna de los anteriores"
+      },
+      "response": "c"
+    },
+    {
+      "id": 71,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A qué se le denomina Peso Bruto Vehicular Legal?",
+      "image": "",
+      "alternatives": {
+        "a": "Peso total del vehículo incluyendo tara más capacidad de carga legal.",
+        "b": "Peso total del vehículo determinado por el fabricante.",
+        "c": "Peso del vehículo incluyendo tara y capacidad de carga.",
+        "d": "Ninguna de los anteriores"
+      },
+      "response": "a"
+    },
+    {
+      "id": 72,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A qué se le denomina Peso Bruto Vehicular Combinado?",
+      "image": "",
+      "alternatives": {
+        "a": "Peso total del vehículo determinado por el fabricante.",
+        "b": "Peso bruto vehicular de la combinación camión más remolque(s).",
+        "c": "Peso bruto vehicular legal del camión más remolque(s), de acuerdo a lo establecido en reglamento",
+        "d": "Ninguna de los anteriores"
+      },
+      "response": "b"
+    },
+    {
+      "id": 73,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A qué se le denomina Peso Bruto Vehicular Combinado Legal?",
+      "image": "",
+      "alternatives": {
+        "a": "Peso bruto vehicular de la combinación remolcador más remolque(s), según su configuración vehicular.",
+        "b": "Peso bruto vehicular de la combinación remolque(s) más semiremolque(s), según su configuración vehicular.",
+        "c": "Peso bruto vehicular legal del camión más remolque(s), de acuerdo a lo establecido en reglamento.",
+        "d": "Ninguna de los anteriores"
+      },
+      "response": "a"
+    },
+    {
+      "id": 74,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Para qué se emplea la quinta rueda?",
+      "image": "",
+      "alternatives": {
+        "a": "Como repuesto de las llantas del vehículo.",
+        "b": "Para el acople del remolque",
+        "c": "Para el acople del semirremolque.",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "c"
+    },
+    {
+      "id": 75,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es la profundidad mínima en las ranuras principales situadas en la zona central de la banda de rodamiento del neumático para un vehículo de categoría N3?",
+      "image": "",
+      "alternatives": {
+        "a": "2.0mm",
+        "b": "1.6mm",
+        "c": "0.8mm",
+        "d": "1.8mm"
+      },
+      "response": "a"
+    },
+    {
+      "id": 76,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuál es la tolerancia del peso bruto vehicular máximo?",
+      "image": "",
+      "alternatives": {
+        "a": "2%",
+        "b": "5%",
+        "c": "3%",
+        "d": "8%"
+      },
+      "response": "c"
+    },
+    {
+      "id": 77,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "El peso bruto máximo permitido en el SNTT es de:",
+      "image": "",
+      "alternatives": {
+        "a": "50 toneladas.",
+        "b": "48 toneladas.",
+        "c": "46 toneladas.",
+        "d": "45 toneladas"
+      },
+      "response": "b"
+    },
+    {
+      "id": 78,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Qué definición corresponde a los vehículos de categoría N3?",
+      "image": "",
+      "alternatives": {
+        "a": "Vehículos de peso bruto vehicular mayor a 12 toneladas.",
+        "b": "Vehículos de peso bruto vehicular mayor a 3,5 toneladas hasta 12 toneladas.",
+        "c": "Vehículos de peso bruto vehicular menor o igual a 12 toneladas.",
+        "d": "Vehículos de peso bruto vehicular de 8 toneladas o menos."
+      },
+      "response": "a"
+    },
+    {
+      "id": 79,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿A qué se denomina mercancía especial?",
+      "image": "",
+      "alternatives": {
+        "a": "Mercancía que por sus características puede ser fraccionada sin afectar su naturaleza.",
+        "b": "Mercancía que, por sus características, no puede ser fraccionada sin afectar su naturaleza.",
+        "c": "Mercancía peligrosa y/o indivisible que, para ser transportada, excede los límites de pesos y/o medidas permitidas.",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "c"
+    },
+    {
+      "id": 80,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "Para vehículos de la categoría N, la altura de la carrocería no podrá superar en más del _____ de la altura de la cabina original del vehículo",
+      "image": "",
+      "alternatives": {
+        "a": "50%",
+        "b": "45%",
+        "c": "40%",
+        "d": "60%"
+      },
+      "response": "a"
+    },
+    {
+      "id": 81,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿El vehículo con carga puede circular con el eje retráctil retraído por el Sistema Nacional de Transporte Terrestre?",
+      "image": "",
+      "alternatives": {
+        "a": "Si",
+        "b": "No está prohibido.",
+        "c": "Solo cuando no tiene carga pesada",
+        "d": "Depende de los ejes o conjunto de ejes del vehículo"
+      },
+      "response": "b"
+    },
+    {
+      "id": 82,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Cuáles son las medidas preventivas vigentes en el Reglamento Nacional de Vehículos?",
+      "image": "",
+      "alternatives": {
+        "a": "Interrupción del tránsito, detención del conductor y retención de la licencia de conducir.",
+        "b": "Interrupción de la circulación del vehículo, retención de mercancía y retención de la licencia de conducir.",
+        "c": "Reestiba de la mercancía, descarga de la mercancía en exceso e internamiento del vehículo.",
+        "d": "Retención del vehículo y la licencia de conducir, internamiento del vehículo e interrupción del tránsito."
+      },
+      "response": "c"
+    },
+    {
+      "id": 83,
+      "matter": "Materias especificas",
+      "theme": "Reglamento Nacional de Vehículos",
+      "statement": "¿Con qué porcentaje adicional se sanciona la reincidencia en la comisión de infracciones muy graves?",
+      "image": "",
+      "alternatives": {
+        "a": "50%",
+        "b": "30%",
+        "c": "40%",
+        "d": "20%"
+      },
+      "response": "a"
+    },
+    {
+      "id": 84,
+      "matter": "Materias especificas",
+      "theme": "Funcionamiento del Sistema Nacional de Emisión de Licencias de Conducir",
+      "statement": "Es la categoría de licencia de conducir de clase A que autoriza a conducir vehículos de las categorías III A y B de manera indiferente",
+      "image": "",
+      "alternatives": {
+        "a": "Clase A Categoría II a.",
+        "b": "Clase A Categoría III c.",
+        "c": "Clase A Categoría II b.",
+        "d": "Clase A Categoría IV"
+      },
+      "response": "b"
+    },
+    {
+      "id": 85,
+      "matter": "Materias especificas",
+      "theme": "Funcionamiento del Sistema Nacional de Emisión de Licencias de Conducir",
+      "statement": "La licencia de conducir de Clase A- Categoría III C tendrá una vigencia de…..",
+      "image": "",
+      "alternatives": {
+        "a": "3 años",
+        "b": "5 años",
+        "c": "8 años",
+        "d": "2 años"
+      },
+      "response": "a"
+    },
+    {
+      "id": 86,
+      "matter": "Materias especificas",
+      "theme": "Funcionamiento del Sistema Nacional de Emisión de Licencias de Conducir",
+      "statement": "La licencia clase A categoría III C, permite conducir vehículos señalados en la categoría",
+      "image": "",
+      "alternatives": {
+        "a": "I.",
+        "b": "II.",
+        "c": "III a y III b",
+        "d": "Todas las anteriores"
+      },
+      "response": "d"
+    },
+    {
+      "id": 87,
+      "matter": "Materias especificas",
+      "theme": "Funcionamiento del Sistema Nacional de Emisión de Licencias de Conducir",
+      "statement": "Para conducir vehículos de transporte terrestre de materiales peligrosos, ____ necesario contar con la licencia que corresponda a la categoría del vehículo que transporta los materiales peligrosos.",
+      "image": "",
+      "alternatives": {
+        "a": "No es.",
+        "b": "Es",
+        "c": "Depende de la mercancía que transporta",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "b"
+    },
+    {
+      "id": 88,
+      "matter": "Materias especificas",
+      "theme": "Mecánica para la conducción",
+      "statement": "¿Que instrumento es obligatorio para que la autoridad pueda controlar la velocidad de un bus interprovincial?",
+      "image": "",
+      "alternatives": {
+        "a": "Velocímetro",
+        "b": "GPS",
+        "c": "Modem",
+        "d": "Tacómetro"
+      },
+      "response": "b"
+    },
+    {
+      "id": 89,
+      "matter": "Materias especificas",
+      "theme": "Mecánica para la conducción",
+      "statement": "¿Cuál es la desventaja de utilizar la suspensión neumática en vez de suspensión mecánica?",
+      "image": "",
+      "alternatives": {
+        "a": "menor estabilidad",
+        "b": "alto mantenimiento",
+        "c": "acción de alta fricción",
+        "d": "menor confort"
+      },
+      "response": "b"
+    },
+    {
+      "id": 90,
+      "matter": "Materias especificas",
+      "theme": "Mecánica para la conducción",
+      "statement": "¿Cuál de los siguientes elementos no está vinculado al dispositivo de ubicación de conexión inalámbrica?",
+      "image": "",
+      "alternatives": {
+        "a": "bateria de respaldo",
+        "b": "GPS",
+        "c": "capacidad de almacenamiento de data",
+        "d": "solo usa cobertura satelital"
+      },
+      "response": "d"
+    },
+    {
+      "id": 91,
+      "matter": "Materias especificas",
+      "theme": "Mecánica para la conducción",
+      "statement": "¿Qué elemento del sistema de suspensión no corresponde para ser usado en semirremolques?",
+      "image": "",
+      "alternatives": {
+        "a": "Muelles de hoja",
+        "b": "neumática",
+        "c": "resorte",
+        "d": "brazo de torsión"
+      },
+      "response": "c"
+    },
+    {
+      "id": 92,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "El Reglamento Nacional de Administración de Transporte regula:",
+      "image": "",
+      "alternatives": {
+        "a": "El servicio de transporte terrestre y el tránsito.",
+        "b": "El servicio de transporte terrestre de personas y mercancías.",
+        "c": "Únicamente el servicio de transporte de mercancías.",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "b"
+    },
+    {
+      "id": 93,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Con relación a las obligaciones del conductor del servicio de transporte terrestre. Marque la alternativa incorrecta:",
+      "image": "",
+      "alternatives": {
+        "a": "Debe ser titular de una licencia de conducir de la clase y categoría que corresponda al vehículo que conduce.",
+        "b": "Debe portar su licencia de conducir vigente, así como la documentación del vehículo.",
+        "c": "Debe conducir solo vehículos habilitados por la autoridad competente.",
+        "d": "Puede oponerse a la labor de supervisión y fiscalización de la autoridad competente."
+      },
+      "response": "d"
+    },
+    {
+      "id": 94,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "La edad máxima para conducir vehículos destinados al servicio de transporte terrestre es de:",
+      "image": "",
+      "alternatives": {
+        "a": "55 años.",
+        "b": "60 años.",
+        "c": "65 años.",
+        "d": "70 años."
+      },
+      "response": "d"
+    },
+    {
+      "id": 95,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "En el servicio de transporte de personas de ámbito nacional, la habilitación vehicular permite que un vehículo pueda ser empleado en:",
+      "image": "",
+      "alternatives": {
+        "a": "En cualquiera de las rutas autorizadas del transportista a nivel nacional.",
+        "b": "En cualquiera de las rutas a nivel nacional.",
+        "c": "En toda la Red Vial Nacional.",
+        "d": "Todas las anteriores."
+      },
+      "response": "a"
+    },
+    {
+      "id": 96,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "El servicio de transporte regular de personas es aquel que se presta:",
+      "image": "",
+      "alternatives": {
+        "a": "Con regularidad y sin uniformidad.",
+        "b": "Con regularidad y uniformidad.",
+        "c": "Con uniformidad y sin regularidad.",
+        "d": "Sin regularidad ni uniformidad."
+      },
+      "response": "b"
+    },
+    {
+      "id": 97,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Si un conductor atenta contra la integridad física del inspector durante la realización de sus funciones, será sancionado con:",
+      "image": "",
+      "alternatives": {
+        "a": "Cancelación de licencia de conducir e inhabilitación para obtener nueva licencia por tres (3) años.",
+        "b": "Suspensión de la licencia de conducir por tres (3) años.",
+        "c": "Cancelación de la licencia de conducir e inhabilitación definitiva para obtener nueva licencia. Multa de 0.5 UIT.",
+        "d": "Cancelación de la licencia de conducir por un (1) año e inhabilitación definitiva para obtener nueva licencia. Multa de 1 UIT."
+      },
+      "response": "c"
+    },
+    {
+      "id": 98,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "¿Cuál es el plazo que tiene el presunto infractor, contados a partir del día siguiente de la notificación de inicio del procedimiento sancionador, para presentar sus descargos?",
+      "image": "",
+      "alternatives": {
+        "a": "15 días hábiles.",
+        "b": "7 días hábiles.",
+        "c": "5 días hábiles.",
+        "d": "7 días naturales."
+      },
+      "response": "c"
+    },
+    {
+      "id": 99,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "¿A partir de qué edad el conductor del servicio de transporte deberá rendir y aprobar los exámenes médicos semestrales que establezca la Dirección General de Transporte Terrestre (DGTT)?",
+      "image": "",
+      "alternatives": {
+        "a": "60 años.",
+        "b": "55 años.",
+        "c": "65 años.",
+        "d": "No existe dicho exigencia en la norma."
+      },
+      "response": "c"
+    },
+    {
+      "id": 100,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Si un presunto infractor paga voluntariamente dentro de los cinco días hábiles de levantada el acta de control, la multa que corresponda a la infracción imputada, ésta será reducida en:",
+      "image": "",
+      "alternatives": {
+        "a": "20% de su monto.",
+        "b": "30% de su monto.",
+        "c": "40% de su monto.",
+        "d": "50% de su monto."
+      },
+      "response": "d"
+    },
+    {
+      "id": 101,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "El servicio de transporte terrestre, por el elemento transportado, se clasifica en:",
+      "image": "",
+      "alternatives": {
+        "a": "Servicio de transporte terrestre de personas, de mercancías y mixto.",
+        "b": "Servicio de transporte terrestre provincial, regional y nacional.",
+        "c": "Servicio de transporte terrestre de mercancías, de materiales y residuos peligrosos y de personas.",
+        "d": "Servicio de transporte terrestre regular de personas y especial de personas."
+      },
+      "response": "a"
+    },
+    {
+      "id": 102,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Es la medida preventiva que consiste en el traslado del vehículo fuera de la vía pública dispuesto por la autoridad competente y/o PNP, utilizando cualquier medio eficaz y proporcional al fin que se persigue:",
+      "image": "",
+      "alternatives": {
+        "a": "Remoción del vehículo.",
+        "b": "Retención del vehículo.",
+        "c": "Internamiento del vehículo.",
+        "d": "Interrupción del viaje."
+      },
+      "response": "a"
+    },
+    {
+      "id": 103,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Es la entidad encargada de supervisar, fiscalizar y sancionar las actividades del transporte terrestre de personas, carga y mercancías en el ámbito nacional:",
+      "image": "",
+      "alternatives": {
+        "a": "La Superintendencia de Transporte Terrestre de Personas, Carga y Mercancías-SUTRAN",
+        "b": "La Dirección General de Transporte Terrestre del Ministerio de Transportes y Comunicaciones.",
+        "c": "El Organismo Supervisor de la Inversión en Infraestructura de Transporte de uso Público-OSITRAN.",
+        "d": "Las alternativas a) y b) son correctas"
+      },
+      "response": "a"
+    },
+    {
+      "id": 104,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "El servicio de transporte terrestre tiene como fin primordial:",
+      "image": "",
+      "alternatives": {
+        "a": "El servicio de transporte terrestre tiene como fin primordial:",
+        "b": "Satisfacer la necesidad de traslado por vía terrestre de personas o mercancías.",
+        "c": "Ninguna de las anteriores.",
+        "d": "Que al generador de carga se le pague un flete."
+      },
+      "response": "b"
+    },
+    {
+      "id": 105,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Qué sanción le corresponde al conductor que presta el servicio sin contar con autorización otorgada por la autoridad competente o en una modalidad o ámbito diferente al autorizado?",
+      "image": "",
+      "alternatives": {
+        "a": "Multa de 1 UIT",
+        "b": "Multa de 2 UIT",
+        "c": "Multa de 0.5 UIT",
+        "d": "Multa de 0.05 UIT"
+      },
+      "response": "a"
+    },
+    {
+      "id": 106,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Con relación a las jornadas de conducción. Marque la alternativa correcta:",
+      "image": "",
+      "alternatives": {
+        "a": "No debe exceder las cinco (5) horas de conducción continuas en el servicio diurno, ni las cuatro (4) horas en el servicio nocturno.",
+        "b": "No debe exceder las cuatro (4) horas de conducción continuas en el servicio diurno, ni las cuatro (5) horas en el servicio nocturno.",
+        "c": "No debe exceder las cinco (5) horas de conducción continuas en el servicio diurno, ni las cuatro (4.5) horas en el servicio nocturno.",
+        "d": "No debe exceder las cuatro (4) horas de conducción continuas en el servicio diurno, ni las tres (3) horas en el servicio nocturno."
+      },
+      "response": "a"
+    },
+    {
+      "id": 107,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "La hoja de ruta electrónica se debe elaborar",
+      "image": "",
+      "alternatives": {
+        "a": "Al culminar el servicio de transporte terrestre",
+        "b": "Durante el servicio de transporte terrestre, que incluye la relación de pasajeros",
+        "c": "Antes del inicio del servicio de transporte terrestre",
+        "d": "Durante la venta del pasaje al usuario"
+      },
+      "response": "c"
+    },
+    {
+      "id": 108,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "El servicio de transporte terrestre, por el ámbito territorial se clasifica en:",
+      "image": "",
+      "alternatives": {
+        "a": "Servicio de transporte terrestre de personas, de mercancías y mixto.",
+        "b": "Servicio de transporte terrestre de ámbito distrital, de ámbito provincial, de ámbito regional y de ámbito nacional.",
+        "c": "Servicio de transporte terrestre de ámbito provincial, de ámbito regional y de ámbito nacional.",
+        "d": "Servicio de transporte terrestre de ámbito nacional y de ámbito provincial."
+      },
+      "response": "c"
+    },
+    {
+      "id": 109,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Es el documento que sustenta el traslado de bienes por el transportista autorizado para prestar el servicio de transporte terrestre de mercancías:",
+      "image": "",
+      "alternatives": {
+        "a": "Hoja de ruta",
+        "b": "Flete",
+        "c": "Licencia de conducir",
+        "d": "Guía de Remisión de Transportista"
+      },
+      "response": "d"
+    },
+    {
+      "id": 110,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Si el conductor transporta a sabiendas, productos explosivos, inflamables corrosivos, venenosos o similares en un vehículo del servicio de transporte de personas, comete una infracción calificada como:",
+      "image": "",
+      "alternatives": {
+        "a": "Muy grave",
+        "b": "Grave",
+        "c": "Leve",
+        "d": "No es ni la alternativa a) ni la alternativa c)"
+      },
+      "response": "a"
+    },
+    {
+      "id": 111,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Es la persona natural o jurídica por cuyo encargo se transporte mercancías en un vehículo habilitado para la prestación del servicio de transporte público de mercancías:",
+      "image": "",
+      "alternatives": {
+        "a": "Transportista",
+        "b": "Destinatario de carga",
+        "c": "Generador de carga",
+        "d": "Ninguna de las anteriores"
+      },
+      "response": "c"
+    },
+    {
+      "id": 112,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "El inspector de transporte es la persona acreditada u homologada para realizar:",
+      "image": "",
+      "alternatives": {
+        "a": "Acciones de control de incumplimientos o infracciones a las normas del servicio de transporte terrestre.",
+        "b": "Acciones de supervisión de incumplimientos o infracciones a las normas del servicio de transporte terrestre.",
+        "c": "Acciones de detección de incumplimientos o infracciones a las normas del servicio de transporte terrestre.",
+        "d": "Todas las anteriores."
+      },
+      "response": "d"
+    },
+    {
+      "id": 113,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Los terminales terrestres son obligatorios para el servicio público de transporte regular de personas en el ámbito:",
+      "image": "",
+      "alternatives": {
+        "a": "Nacional y Regional.",
+        "b": "Regional y Provincial.",
+        "c": "Nacional, Regional y Provincial.",
+        "d": "Distrital, Provincial, Regional, Nacional e Internacional."
+      },
+      "response": "c"
+    },
+    {
+      "id": 114,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "¿En qué momento se debe elaborar la Hoja de ruta electrónica?",
+      "image": "",
+      "alternatives": {
+        "a": "Al culminar el servicio de transporte terrestre.",
+        "b": "Durante el servicio de transporte terrestre, que incluye la relación de pasajeros.",
+        "c": "Antes del inicio del servicio de transporte terrestre",
+        "d": "Durante la venta del pasaje al usuario."
+      },
+      "response": "c"
+    },
+    {
+      "id": 115,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Es el documento expedido por la autoridad competente, que acredita la habilitación del vehículo para prestar el servicio de transporte:",
+      "image": "",
+      "alternatives": {
+        "a": "La Placa Única Nacional de Rodaje.",
+        "b": "La Tarjeta de Identificación Vehicular.",
+        "c": "La Guía de Remisión de Transportista.",
+        "d": "La Tarjeta Única de Circulación."
+      },
+      "response": "d"
+    },
+    {
+      "id": 116,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "En el servicio de transporte la vigencia de la habilitación del conductor es ….y de renovación automática una vez acreditada la vigencia de la licencia de conducir de la categoría correspondiente al vehículo habilitado",
+      "image": "",
+      "alternatives": {
+        "a": "Anual.",
+        "b": "Cada dos años.",
+        "c": "Cada cinco años.",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "a"
+    },
+    {
+      "id": 117,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Según el Reglamento Nacional de Administración de Transporte, se considera reincidencia a aquel que es sancionado, por la misma infracción____________________que amerite una sanción pecuniaria, por la que fue sancionado dentro de los doce (12) meses anteriores.",
+      "image": "",
+      "alternatives": {
+        "a": "Muy grave.",
+        "b": "Grave.",
+        "c": "Muy grave o grave.",
+        "d": "Muy grave, grave o leve."
+      },
+      "response": "c"
+    },
+    {
+      "id": 118,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transportes",
+      "statement": "De las siguientes alternativas, ¿cuál de ellas no es una forma a través de la cual concluye el procedimiento sancionador?",
+      "image": "",
+      "alternatives": {
+        "a": "Resolución de sanción.",
+        "b": "Resolución de archivamiento.",
+        "c": "Pago voluntario de la total de sanción.",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "d"
+    },
+    {
+      "id": 119,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transportes",
+      "statement": "Es exigible el manifiesto de usuarios para el servicio de:",
+      "image": "",
+      "alternatives": {
+        "a": "Transporte regular de personas de ámbito nacional y regional.",
+        "b": "Transporte regular de personas de ámbito nacional, regional y provincial.",
+        "c": "Transporte especial de personas de ámbito provincial",
+        "d": "Todas las anteriores."
+      },
+      "response": "a"
+    },
+    {
+      "id": 120,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transportes",
+      "statement": "Los medios probatorios que sustentan los incumplimientos y las infracciones son:",
+      "image": "",
+      "alternatives": {
+        "a": "El acta de control levantada por el inspector de transporte.",
+        "b": "El documento por el que se da cuenta de la detección de algún incumplimiento o infracción en la fiscalización de gabinete.",
+        "c": "Las actas de inspecciones, constataciones, ocurrencias, formularios y similares levantados por otras instituciones en el ejercicio de sus funciones.",
+        "d": "Todas las anteriores."
+      },
+      "response": "d"
+    },
+    {
+      "id": 121,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transportes",
+      "statement": "La sanción que le corresponde al conductor por obstruir la labor de fiscalización, cuando incurre en actos de simulación, suplantación u otras conductas destinadas a hacer incurrir en error a la autoridad competente respecto de la autorización para prestar el servicio, es:",
+      "image": "",
+      "alternatives": {
+        "a": "Suspensión por 30 días de la autorización.",
+        "b": "Suspensión por 60 días de la autorización.",
+        "c": "Suspensión de la licencia de conducir por 90 días y multa de 0.5 UIT.",
+        "d": "Suspensión por 120 días de la autorización."
+      },
+      "response": "c"
+    },
+    {
+      "id": 122,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transportes",
+      "statement": "¿Qué tipos de condiciones deben cumplir quienes prestan un servicio de transporte de personas o de mercancías?",
+      "image": "",
+      "alternatives": {
+        "a": "Técnicas, legales y contractuales.",
+        "b": "Técnicas, legales y de operación.",
+        "c": "Legales, normativas y contractuales.",
+        "d": "Operación, normativas específicas y generales."
+      },
+      "response": "b"
+    },
+    {
+      "id": 123,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "La duración acumulada de jornadas de conducción no deberá exceder:",
+      "image": "",
+      "alternatives": {
+        "a": "De doce (12) horas en un periodo de veinticuatro (24) horas, contadas desde el inicio de la conducción en un servicio.",
+        "b": "De ocho (8) horas en un periodo de veinticuatro (24) horas, contadas desde el inicio de la conducción en un servicio.",
+        "c": "De diez (10) horas en un periodo de treinta y seis (36) horas, contadas desde el inicio de la conducción en un servicio.",
+        "d": "De diez (10) horas en un periodo de veinticuatro (24) horas, contadas desde el inicio de la conducción en un servicio."
+      },
+      "response": "d"
+    },
+    {
+      "id": 124,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "¿A partir de qué edad los menores de edad deben ocupar su propio asiento?",
+      "image": "",
+      "alternatives": {
+        "a": "A partir de los cinco (5) años de edad.",
+        "b": "A partir de los tres (3) años de edad.",
+        "c": "A partir de los siete (7) años de edad.",
+        "d": "No edad mínima para que los menores de edad ocupen su propio asiento."
+      },
+      "response": "a"
+    },
+    {
+      "id": 125,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "¿Cuáles son los documentos de transporte de mercancías que regula el Reglamento Nacional de Administración de Transporte?",
+      "image": "",
+      "alternatives": {
+        "a": "La guía de remisión del transportista, la carta de porte y el manifiesto de carga.",
+        "b": "Únicamente la guía de remisión del transportista.",
+        "c": "Únicamente la guía de remisión del transportista y la carta de porte.",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "a"
+    },
+    {
+      "id": 126,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "¿Pueden viajar dos personas en un mismo asiento?",
+      "image": "",
+      "alternatives": {
+        "a": "Nunca se da este supuesto.",
+        "b": "Sí, cuando una de ellas es un menor de cinco (5) años de edad.",
+        "c": "Sí, cuando una de ellas es un menor de tres (3) años de edad.",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "b"
+    },
+    {
+      "id": 127,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "El recibidor o destinatario en el transporte de mercancías no se obliga a:",
+      "image": "",
+      "alternatives": {
+        "a": "Recibir las mercancías en los lugares autorizados o adecuados.",
+        "b": "Suscribir y hacer constar la recepción de la mercancía en la guía de remisión del transportista.",
+        "c": "Verificar que se ha estibado correctamente las mercancías en el vehículo.",
+        "d": "Cancelar el precio pactado por el servicio de transporte, si corresponde."
+      },
+      "response": "c"
+    },
+    {
+      "id": 128,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "De las entidades que se indican a continuación, ¿cuál de ellas no es una autoridad competente en materia de transporte y tránsito terrestre?",
+      "image": "",
+      "alternatives": {
+        "a": "El Ministerio de Transportes y Comunicaciones.",
+        "b": "Las municipalidades provinciales y distritales.",
+        "c": "El Consejo Nacional de Seguridad Vial.",
+        "d": "La Policía Nacional del Perú."
+      },
+      "response": "c"
+    },
+    {
+      "id": 129,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "En el servicio de transporte de personas de ámbito provincial, el ascenso y descenso de los usuarios se podrá realizar en:",
+      "image": "",
+      "alternatives": {
+        "a": "Los lugares autorizados o paraderos de ruta.",
+        "b": "En los paraderos urbanos e interurbanos.",
+        "c": "En cualquier punto de la vía, siempre que se tome la debida precaución.",
+        "d": "Todas las anteriores."
+      },
+      "response": "b"
+    },
+    {
+      "id": 130,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Al conductor que durante una acción de fiscalización se niega a entregar la información o documentación sobre su habilitación como conductor del servicio de transporte, se le debe aplicar la siguiente sanción:",
+      "image": "",
+      "alternatives": {
+        "a": "Suspensión de la licencia de conducir por 30 días calendario.",
+        "b": "Suspensión de la licencia de conducir por 90 días calendario y multa de 0.5 UIT.",
+        "c": "Suspensión de la licencia de conducir por 10 días calendario.",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "b"
+    },
+    {
+      "id": 131,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Es el servicio de transporte de personas y de mercancías en un vehículo autorizado para este tipo de transporte:",
+      "image": "",
+      "alternatives": {
+        "a": "Servicio de transporte estándar.",
+        "b": "Servicio de transporte mixto.",
+        "c": "Servicio de transporte diferenciado.",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "b"
+    },
+    {
+      "id": 132,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "El vehículo que presta el servicio de transporte de ámbito nacional o regional debe contar con el siguiente Seguro:",
+      "image": "",
+      "alternatives": {
+        "a": "Seguro Obligatorio de Accidentes de Tránsito-SOAT.",
+        "b": "Certificado Contra Accidentes de Tránsito-CAT.",
+        "c": "Seguro Obligatorio de Accidentes de Tránsito-SOAT o Certificado Contra Accidentes de Tránsito-CAT.",
+        "d": "Alternativas a) y b)."
+      },
+      "response": "a"
+    },
+    {
+      "id": 133,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Para efectos de la jornada de conducción, ¿qué horario es considerado como nocturno?",
+      "image": "",
+      "alternatives": {
+        "a": "El comprendido entre las 9:00 p.m. y 6:00 a.m.",
+        "b": "El comprendido entre las 10:00 p.m. y las 5:59 a.m.",
+        "c": "El comprendido entre las 11:00 p.m. y las 5:59 a.m.",
+        "d": "El comprendido entre las 11:00 p.m. y las 6:00 a.m."
+      },
+      "response": "b"
+    },
+    {
+      "id": 134,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "La auditoría anual es una modalidad de fiscalización del servicio de transporte, que es realizada aleatoriamente a los transportistas, a la infraestructura complementaria de transporte y a…….....",
+      "image": "",
+      "alternatives": {
+        "a": "Los conductores habilitados",
+        "b": "Los establecimientos de salud que realizan los exámenes médicos a los conductores",
+        "c": "La red vial nacional",
+        "d": "Todas las anteriores."
+      },
+      "response": "a"
+    },
+    {
+      "id": 135,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "¿Cuál es el documento levantado por el inspector de transporte, en la que se hace constar los resultados de acción de control?",
+      "image": "",
+      "alternatives": {
+        "a": "Acta de Control.",
+        "b": "Papeleta de infracción levantada por la PNP.",
+        "c": "Acto administrativo emitido por el funcionario que lleva a cabo el procedimiento administrativo de sanción.",
+        "d": "Todas las Anteriores."
+      },
+      "response": "a"
+    },
+    {
+      "id": 136,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "¿Qué sanción pecuniaria acarrea no informar por escrito a la autoridad competente dentro de las cuarenta y ocho (48) horas de producidos los accidentes de tránsito con daños personales ocurridos durante la operación del servicio?",
+      "image": "",
+      "alternatives": {
+        "a": "Multa de 1 UIT.",
+        "b": "Multa de 2 UIT.",
+        "c": "Multa de 0.5 UIT",
+        "d": "No está tipificada esta conducta como infracción."
+      },
+      "response": "c"
+    },
+    {
+      "id": 137,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Las sanciones por las infracciones al servicio de transporte se encuentran comprendidas en:",
+      "image": "",
+      "alternatives": {
+        "a": "El Reglamento Nacional de Administración de Transporte.",
+        "b": "El Texto Único Ordenado del Reglamento Nacional de Tránsito - Código de Tránsito.",
+        "c": "El Reglamento Nacional de Inspecciones Técnicas Vehiculares.",
+        "d": "Todas las anteriores."
+      },
+      "response": "a"
+    },
+    {
+      "id": 138,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "¿Pueden viajar dos personas en un mismo asiento?",
+      "image": "",
+      "alternatives": {
+        "a": "Nunca se da este supuesto.",
+        "b": "Sí, cuando una de ellas es un menor de cinco (5) años de edad.",
+        "c": "Sí, cuando una de ellas es un menor de tres (3) años de edad.",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "b"
+    },
+    {
+      "id": 139,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Si el conductor transporta a sabiendas, productos explosivos, inflamables corrosivos, venenosos o similares en un vehículo del servicio de transporte de personas, comete una infracción calificada como:",
+      "image": "",
+      "alternatives": {
+        "a": "Muy grave",
+        "b": "Grave",
+        "c": "Leve",
+        "d": "No es ni la alternativa a) ni la alternativa c)"
+      },
+      "response": "a"
+    }
+  ]
+}

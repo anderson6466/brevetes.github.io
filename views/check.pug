@@ -1,0 +1,115 @@
+extends layout
+
+block content
+    h2.result-title Resultados del simulacro.
+    //p #{JSON.stringify(responses)}
+    .result-summary
+        if rights >= 35
+            p.result-summary__approved Aprobado!
+        else
+            p.result-summary__disapproved Desaprobado!
+    .result-body
+        .result-body__item
+            .result-body__item__label Puntuación
+            .result-body__item__number #{rights}
+        .result-body__item
+            .result-body__item__label Porcentaje de acierto
+            .result-body__item__number #{percentage.toString().slice(0, 4)} %
+        .result-body__item
+            canvas(id="result-bar" width="500" height="400")
+    .result-reviewed
+        .result-reviewed__title Aciertos por pregunta
+        .result-reviewed__body
+            - var i = 1
+            - var reviews = JSON.stringify(reviewed).slice(1, 80); //.map(function (i) {return parseInt(i, 10);});
+            - reviews = JSON.parse("[" + reviews + "]");
+            //p #{reviews[5]}
+            while i <= 40
+                if reviews[i-1] == '1'
+                    .result-reviewed__item.result-reviewed__item--true
+                        p #{i}
+                else
+                    .result-reviewed__item.result-reviewed__item--false
+                        p #{i}
+                - i++
+
+    .navigation
+
+        a.navigation__btn.navigation__btn--blue(onclick="window.history.back();") Modificar respuestas
+        a.navigation__btn.navigation__btn--green(href="/") Otro intento
+        button.navigation__btn(href="#" id="btn-check") Corregir
+    script(src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.min.js')
+    script.
+        var ctx = document.getElementById('result-bar').getContext('2d');
+        ctx.width = 500;
+        ctx.height = 400;
+        new Chart(ctx, {
+            "type":"bar",
+            "data":{
+                "labels":["Correctas","Incorrectas"],
+                "datasets":[
+                    {
+                        "label":"Balance de respuestas",
+                        "data":[#{rights},#{incorrect}],
+                        "fill":false,"backgroundColor":[
+                            "rgba(75, 192, 192, 0.2)",
+                            "rgba(255, 99, 132, 0.2)"],
+                        "borderColor":[
+                            "rgb(75, 192, 192)",
+                            "rgb(255, 99, 132)"],
+                        "borderWidth":1
+                    }]
+        },
+        "options":
+            {
+                "scales":
+                {
+                    "yAxes":[
+                        {
+                            "ticks":{
+                                "beginAtZero":true
+                            }
+                        }
+                    ]
+                },
+                "responsive": true,
+                "maintainAspectRatio": false
+            }
+        });
+
+        var btn_check = document.getElementById('btn-check');
+        btn_check.addEventListener("click", function () {
+            var form = document.createElement("form");
+            var element1 = document.createElement("input");
+            var element2 = document.createElement("input");
+            var element3 = document.createElement("input");
+            var element4 = document.createElement("input");
+
+            form.method = "POST";
+            form.action = "/validate";
+
+            element1.value = !{JSON.stringify(questionData)}
+            element1.name = "questionData";
+
+            element2.value = 'true';
+            element2.name = "check";
+            //var reviews = JSON.stringify(#{reviewed}).slice(1, 80); //.map(function (i) {return parseInt(i, 10);});
+            //reviews = JSON.parse("[" + reviews + "]");
+            //console.log(!{reviewed});
+            element3.value = !{JSON.stringify(reviewed)};
+            element3.name = "reviewed";
+
+            element4.value = !{JSON.stringify(responses)}
+            element4.name = "responses";
+
+
+            form.appendChild(element1);
+            form.appendChild(element2);
+            form.appendChild(element3);
+            form.appendChild(element4)
+
+            document.body.appendChild(form);
+
+            form.submit();
+        });
+

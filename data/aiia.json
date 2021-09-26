@@ -1,0 +1,340 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte ",
+      "statement": "El Reglamento Nacional de Administración de Transporte regula: ",
+      "image": "",
+      "alternatives": {
+        "a": "El servicio de transporte terrestre y el tránsito.",
+        "b": "El servicio de transporte terrestre de personas y mercancías. ",
+        "c": "Únicamente el servicio de transporte de mercancías. ",
+        "d": "Ninguna de las anteriores. "
+      },
+      "response": "b"
+    },
+    {
+      "id": 2,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "El régimen o la actividad de fiscalización no está orientada a: ",
+      "image": "",
+      "alternatives": {
+        "a": "Proteger la vida, la salud y la seguridad de las personas. ",
+        "b": "Proteger los intereses de los usuarios y de los prestadores del servicio. ",
+        "c": "Sancionar los incumplimientos o infracciones previstas en el Reglamento Nacional de Administración de Transporte ",
+        "d": "Promover la inclusión social. "
+      },
+      "response": "d"
+    },
+    {
+      "id": 3,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte ",
+      "statement": "Las sanciones por las infracciones al servicio de transporte se encuentran comprendidas en: ",
+      "image": "",
+      "alternatives": {
+        "a": "El Reglamento Nacional de Administración de Transporte. ",
+        "b": "El Texto Único Ordenado del Reglamento Nacional de Tránsito - Código de Tránsito.",
+        "c": "El Reglamento Nacional de Inspecciones Técnicas Vehiculares. ",
+        "d": "Todas las anteriores. "
+      },
+      "response": "a"
+    },
+    {
+      "id": 4,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Con relación a las obligaciones del conductor del servicio de transporte terrestre. Marque la alternativa incorrecta: ",
+      "image": "",
+      "alternatives": {
+        "a": "Debe ser titular de una licencia de conducir de la clase y categoría que corresponda al vehículo que conduce.",
+        "b": "Debe portar su licencia de conducir vigente, así como la documentación del vehículo. ",
+        "c": "Debe conducir solo vehículos habilitados por la autoridad competente. ",
+        "d": "Puede oponerse a la labor de supervisión y fiscalización de la autoridad competente. "
+      },
+      "response": "d"
+    },
+    {
+      "id": 5,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte ",
+      "statement": "Con relación a las obligaciones del conductor del servicio de transporte terrestre, es obligatorio que el conductor …. ",
+      "image": "",
+      "alternatives": {
+        "a": "No deba tener su licencia de conducir suspendida, retenida o cancelada ",
+        "b": "No deba llegar o exceder de tope máximo de 100 puntos firmes ",
+        "c": "No tenga impuesta dos o más infracciones Muy Graves, cinco o más infracciones Graves o una infracción Muy Grave y tres o más infracciones Graves ",
+        "d": "Todas las anteriores."
+      },
+      "response": "d"
+    },
+    {
+      "id": 6,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "La entidad competente de fiscalizar el servicio de transporte de ámbito provincial es: ",
+      "image": "",
+      "alternatives": {
+        "a": "El Gobierno Regional. ",
+        "b": "La municipalidad provincial. ",
+        "c": "El Ministerio de Transportes y Comunicaciones. ",
+        "d": "a y c son correctas."
+      },
+      "response": "b"
+    },
+    {
+      "id": 7,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte ",
+      "statement": "Las infracciones se clasifican de acuerdo a su gradualidad en: ",
+      "image": "",
+      "alternatives": {
+        "a": "Levísimas, graves y gravísimas. ",
+        "b": "Leves, graves y muy graves.",
+        "c": "Leves, graves, muy graves y gravísimas.",
+        "d": "Levísimas, gravísimas y muy graves. "
+      },
+      "response": "b"
+    },
+    {
+      "id": 8,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "La edad máxima para conducir vehículos destinados al servicio de transporte terrestre es de: ",
+      "image": "",
+      "alternatives": {
+        "a": "55 años",
+        "b": "60 años. ",
+        "c": "65 años. ",
+        "d": "70 años. "
+      },
+      "response": "d"
+    },
+    {
+      "id": 9,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte ",
+      "statement": "El servicio de transporte especial de personas es aquel que se presta: ",
+      "image": "",
+      "alternatives": {
+        "a": "Sin regularidad ni uniformidad. ",
+        "b": "Con regularidad y uniformidad. ",
+        "c": "Sin regularidad y con uniformidad. ",
+        "d": "Con regularidad y sin uniformidad "
+      },
+      "response": "a"
+    },
+    {
+      "id": 10,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "La autorización del servicio de taxi habilita para:",
+      "image": "",
+      "alternatives": {
+        "a": "Prestar el servicio dentro de la respectiva provincia donde se otorgó la autorización.",
+        "b": "Prestar el servicio en todo el ámbito nacional.",
+        "c": "Prestar el servicio dentro de todo el departamento correspondiente a la provincia donde se otorgó la autorización.",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "a"
+    },
+    {
+      "id": 11,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte ",
+      "statement": "¿Cuál de los siguientes servicios no corresponde al servicio de transporte especial de personas?",
+      "image": "",
+      "alternatives": {
+        "a": "Diferenciado.",
+        "b": "Turístico.",
+        "c": "De trabajadores.",
+        "d": "De estudiantes."
+      },
+      "response": "a"
+    },
+    {
+      "id": 12,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Si un conductor atenta contra la integridad física del inspector durante la realización de sus funciones, será sancionado con:",
+      "image": "",
+      "alternatives": {
+        "a": "Cancelación de licencia de conducir e inhabilitación para obtener nueva licencia por tres (3) años.",
+        "b": "Suspensión de la licencia de conducir por tres (3) años.",
+        "c": "Cancelación de la licencia de conducir e inhabilitación definitiva para obtener nueva licencia. Multa de 0.5 UIT.",
+        "d": "Cancelación de la licencia de conducir por un (1) año e inhabilitación definitiva para obtener nueva licencia. Multa de 1 UIT."
+      },
+      "response": "c"
+    },
+    {
+      "id": 13,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte ",
+      "statement": "El vehículo que prestan el servicio de transporte provincial de personas debe contar con el siguiente Seguro:",
+      "image": "",
+      "alternatives": {
+        "a": "Únicamente con el Seguro Obligatorio de Accidentes de Tránsito-SOAT.",
+        "b": "Únicamente con el Certificado de Accidentes de Tránsito - CAT.",
+        "c": "El Seguro Obligatorio de Accidentes de Tránsito -SOAT o el Certificado contra Accidentes de tránsito - CAT.",
+        "d": "Ninguno de los anteriores."
+      },
+      "response": "c"
+    },
+    {
+      "id": 14,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "En el servicio de transporte la vigencia de la habilitación del conductor es ….y de renovación automática una vez acreditada la vigencia de la licencia de conducir de la categoría correspondiente al vehículo habilitado",
+      "image": "",
+      "alternatives": {
+        "a": "Anual.",
+        "b": "cada dos años.",
+        "c": "Cada cinco años.",
+        "d": "Ninguna de las anteriores."
+      },
+      "response": "a"
+    },
+    {
+      "id": 15,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte ",
+      "statement": "¿A partir de qué edad el conductor del servicio de transporte deberá rendir y aprobar los exámenes médicos semestrales que establezca la Dirección General de Transporte Terrestre (DGTT)?",
+      "image": "",
+      "alternatives": {
+        "a": "60 años.",
+        "b": "55 años.",
+        "c": "65 años.",
+        "d": "No existe dicho exigencia en la norma."
+      },
+      "response": "c"
+    },
+    {
+      "id": 16,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Si un presunto infractor paga voluntariamente dentro de los cinco días hábiles de levantada el acta de control, la multa que corresponda a la infracción imputada, ésta será reducida en:",
+      "image": "",
+      "alternatives": {
+        "a": "20% de su monto.",
+        "b": "30% de su monto.",
+        "c": "40% de su monto.",
+        "d": "50% de su monto."
+      },
+      "response": "d"
+    },
+    {
+      "id": 17,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte ",
+      "statement": "Cuando hablamos del «servicio de transporte especial de ámbito provincial, prestado en vehículos M1 de la clasificación vehicular, que tiene por objeto el traslado de personas desde un punto de origen hasta un punto de destino señalado por quien lo contrata.», nos estamos refiriendo al:",
+      "image": "",
+      "alternatives": {
+        "a": "Servicio de transporte de trabajadores.",
+        "b": "Servicio de transporte de mercancías.",
+        "c": "Servicio de transporte de taxi.",
+        "d": "Servicio de transporte turístico."
+      },
+      "response": "c"
+    },
+    {
+      "id": 18,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "Es la medida preventiva que consiste en el traslado del vehículo fuera de la vía pública dispuesto por la autoridad competente y/o PNP, utilizando cualquier medio eficaz y proporcional al fin que se persigue:",
+      "image": "",
+      "alternatives": {
+        "a": "Remoción del vehículo.",
+        "b": "Retención del vehículo.",
+        "c": "Internamiento del vehículo.",
+        "d": "Interrupción del viaje."
+      },
+      "response": "a"
+    },
+    {
+      "id": 19,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte ",
+      "statement": "El servicio de transporte debe ser prestado a través de vehículos que:",
+      "image": "",
+      "alternatives": {
+        "a": "Se encuentren habilitados.",
+        "b": "Hayan aprobado la Inspección Técnica Vehicular, cuando corresponda.",
+        "c": "Cuenten con póliza de Seguro Obligatorio de Accidentes de Tránsito vigente o Certificado Contra Accidentes de Tránsito, según corresponda.",
+        "d": "Todas las anteriores."
+      },
+      "response": "d"
+    },
+    {
+      "id": 20,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte",
+      "statement": "¿Qué sanción le corresponde al conductor que presta el servicio sin contar con autorización otorgada por la autoridad competente o en una modalidad o ámbito diferente al autorizado?",
+      "image": "",
+      "alternatives": {
+        "a": "Multa de 1 UIT",
+        "b": "Multa de 2 UIT",
+        "c": "Multa de 0.5 UIT",
+        "d": "Multa de 0.05 UIT"
+      },
+      "response": "a"
+    },
+    {
+      "id": 21,
+      "matter": "Materias especificas",
+      "theme": "Regulación de actividad de transporte ",
+      "statement": "En cual de los siguientes supuestos no corresponde la medida preventiva de retención de la licencia de conducir, en el servicio de transporte terrestre:",
+      "image": "",
+      "alternatives": {
+        "a": "Por negarse a entregar información o documentación correspondiente al vehículo que conduce.",
+        "b": "Por realizar acciones destinadas a no someterse o a burlar la fiscalización.",
+        "c": "Por desacatar la orden de suspensión precautoria del servicio de transporte.",
+        "d": "Por conducir un vehículo que presta servicio de transporte, excediendo la edad máxima prevista en el Reglamento Nacional de Administración de Transporte"
+      },
+      "response": "c"
+    },
+    {
+      "id": 22,
+      "matter": "Materias especificas",
+      "theme": "Funcionamiento del Sistema Nacional de Emisión de Licencias de Conducir ",
+      "statement": "La licencia de conducir de Clase A- Categoría II A tendrá una vigencia de…..",
+      "image": "",
+      "alternatives": {
+        "a": "3 años",
+        "b": "5 años",
+        "c": "8 años",
+        "d": "2 años"
+      },
+      "response": "a"
+    },
+    {
+      "id": 23,
+      "matter": "Materias especificas",
+      "theme": "Funcionamiento del Sistema Nacional de Emisión de Licencias de Conducir ",
+      "statement": "¿Cuál es la antigüedad mínima contando con licencia de Clase A- Categoría I que se requiere para obtener la licencia de Clase A categoría II A por recategorización?",
+      "image": "",
+      "alternatives": {
+        "a": "2 años.",
+        "b": "4 años.",
+        "c": "5 años",
+        "d": "No existe antigüedad mínima."
+      },
+      "response": "a"
+    },
+    {
+      "id": 24,
+      "matter": "Materias especificas",
+      "theme": "Funcionamiento del Sistema Nacional de Emisión de Licencias de Conducir ",
+      "statement": "La licencia de conducir de clase A categoría II A permite conducir los vehículos señalados en la categoría:",
+      "image": "",
+      "alternatives": {
+        "a": "I",
+        "b": "III",
+        "c": "IV",
+        "d": "II B"
+      },
+      "response": "a"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+extends layout
+
+block content
+    - var checking = (check == 'true');
+    if checking
+        - var reviews = JSON.stringify(reviewed);
+        - reviews = JSON.parse(reviews).split(',');
+        - rptas = responses.split('<#>');
+    else
+        include partials/chronometer
+    script.
+        var questionData = !{JSON.stringify(questions)}
+    .questions.container
+        - var i = 0
+        while i < questions.length
+            if checking
+                if reviews[i] == "1"
+                    .question.question--correct
+                        p.question__theme #{questions[i].theme}
+                        p.question__statement  #{ i + 1 }) #{questions[i].statement}
+                        if questions[i].image
+                            .question__image
+                                img(src=questions[i].image)
+                        .question__alternatives
+                            .alternative style="color:red;background:green;"
+                                if rptas[i].replace('"', '') == 'a'
+                                    input(type='radio' name='question' + i value='a' id='a' + i checked)
+                                else
+                                    input(type='radio' name='question' + i value='a' id='a' + i)
+                                if questions[i].alternatives.a
+                                    label(for='a' + i)  a) #{questions[i].alternatives.a}
+                                else
+                                    label(for='a' + i )
+                                        img(src=questions[i].alternatives.a_img)
+                            .alternative
+                                if rptas[i].replace('"', '') == 'b'
+                                    input(type='radio' name='question' + i value='b' id='b' + i checked)
+                                else
+                                    input(type='radio' name='question' + i value='b' id='b' + i)
+                                if questions[i].alternatives.b
+                                    label(for='b' + i)  b) #{questions[i].alternatives.b}
+                                else
+                                    label(for='b' + i )
+                                        img(src=questions[i].alternatives.b_img)
+                            .alternative
+                                if rptas[i].replace('"', '') == 'c'
+                                    input(type='radio' name='question' + i value='c' id='c' + i checked)
+                                else
+                                    input(type='radio' name='question' + i value='c' id='c' + i)
+                                if questions[i].alternatives.c
+                                    label(for='c' + i)  c) #{questions[i].alternatives.c}
+                                else
+                                    label(for='c' + i )
+                                        img(src=questions[i].alternatives.c_img)
+                            .alternative
+                                if rptas[i].replace('"', '') == 'd'
+                                    input(type='radio' name='question' + i value='d' id='d' + i checked)
+                                else
+                                    input(type='radio' name='question' + i value='d' id='d' + i)
+                                if questions[i].alternatives.d
+                                    label(for='d' + i)  d) #{questions[i].alternatives.d}
+                                else
+                                    label(for='bd' + i )
+                                        img(src=questions[i].alternatives.d_img)
+                        .question__response
+                            p Respuesta correcta: #{questions[i].response}
+                else
+                    .question.question--incorrect
+                        p.question__theme #{questions[i].theme}
+                        p.question__statement  #{ i + 1 }) #{questions[i].statement}
+                        if questions[i].image
+                            .question__image
+                                img(src=questions[i].image)
+                        .question__alternatives
+                            .alternative
+                                if rptas[i].replace('"', '') == 'a'
+                                    input(type='radio' name='question' + i value='a' id='a' + i checked)
+                                else
+                                    input(type='radio' name='question' + i value='a' id='a' + i)
+                                if questions[i].alternatives.a
+                                    label(for='a' + i)  a) #{questions[i].alternatives.a}
+                                else
+                                    label(for='a' + i )
+                                        img(src=questions[i].alternatives.a_img)
+                            .alternative
+                                if rptas[i].replace('"', '') == 'b'
+                                    input(type='radio' name='question' + i value='b' id='b' + i checked)
+                                else
+                                    input(type='radio' name='question' + i value='b' id='b' + i)
+                                if questions[i].alternatives.b
+                                    label(for='b' + i)  b) #{questions[i].alternatives.b}
+                                else
+                                    label(for='b' + i )
+                                        img(src=questions[i].alternatives.b_img)
+                            .alternative
+                                if rptas[i].replace('"', '') == 'c'
+                                    input(type='radio' name='question' + i value='c' id='c' + i checked)
+                                else
+                                    input(type='radio' name='question' + i value='c' id='c' + i)
+                                if questions[i].alternatives.c
+                                    label(for='c' + i)  c) #{questions[i].alternatives.c}
+                                else
+                                    label(for='c' + i )
+                                        img(src=questions[i].alternatives.c_img)
+                            .alternative
+                                if rptas[i].replace('"', '') == 'd'
+                                    input(type='radio' name='question' + i value='d' id='d' + i checked)
+                                else
+                                    input(type='radio' name='question' + i value='d' id='d' + i)
+                                if questions[i].alternatives.d
+                                    label(for='d' + i)  d) #{questions[i].alternatives.d}
+                                else
+                                    label(for='bd' + i )
+                                        img(src=questions[i].alternatives.d_img)
+                        .question__response
+                            p Respuesta correcta: #{questions[i].response}
+            else
+               
+
+             if i==0
+           
+                div(  class='question'   name='question' + i   id=i)
+                         
+
+
+
+            
+                    p.question__theme #{questions[i].theme}
+                    p.question__statement  #{ i + 1 }) #{questions[i].statement}
+                    if questions[i].image
+                        .question__image
+                            img(src=questions[i].image)
+                    .question__alternatives
+                        .alternative
+                            input(type='radio' name='question' + i value='a' id='a' + i)
+                            if questions[i].alternatives.a
+                                label(for='a' + i)  a) #{questions[i].alternatives.a}
+                            else
+                                label(for='a' + i)
+                                    img(src=questions[i].alternatives.a_img)
+                        .alternative
+                            input(type='radio' name='question' + i value='b' id='b' + i)
+                            if questions[i].alternatives.b
+                                label(for='b' + i)  b) #{questions[i].alternatives.b}
+                            else
+                                label(for='b' + i)
+                                    img(src=questions[i].alternatives.b_img)
+                        .alternative
+                            input(type='radio' name='question' + i value='c' id='c' + i)
+                            if questions[i].alternatives.c
+                                label(for='c' + i)  c) #{questions[i].alternatives.c}
+                            else
+                                label(for='c' + i)
+                                    img(src=questions[i].alternatives.c_img)
+                        .alternative
+                            input(type='radio' name='question' + i value='d' id='d' + i)
+                            if questions[i].alternatives.d
+                                label(for='d' + i)  d) #{questions[i].alternatives.d}
+                            else
+                                label(for='d' + i)
+                                    img(src=questions[i].alternatives.d_img)
+                        div(  class='alternative'  Style="text-align:center "     )
+                            input( type='button'  name='agreement' onclick='mostrarsiguiente('+i+')'  Style="width:125.16px;height:35px;background:green;color:white;padding:9px;border:0px;text-align:center;margin:auto;"  value="Siguiente")
+             else   
+                div(  class='question'  style="display:none; "  name='question' + i   id=i)
+                         
+
+
+
+            
+                    p.question__theme #{questions[i].theme}
+                    p.question__statement  #{ i + 1 }) #{questions[i].statement}
+                    if questions[i].image
+                        .question__image
+                            img(src=questions[i].image)
+                    .question__alternatives
+                        .alternative
+                            input(type='radio' name='question' + i value='a' id='a' + i)
+                            if questions[i].alternatives.a
+                                label(for='a' + i)  a) #{questions[i].alternatives.a}
+                            else
+                                label(for='a' + i)
+                                    img(src=questions[i].alternatives.a_img)
+                        .alternative
+                            input(type='radio' name='question' + i value='b' id='b' + i)
+                            if questions[i].alternatives.b
+                                label(for='b' + i)  b) #{questions[i].alternatives.b}
+                            else
+                                label(for='b' + i)
+                                    img(src=questions[i].alternatives.b_img)
+                        .alternative
+                            input(type='radio' name='question' + i value='c' id='c' + i)
+                            if questions[i].alternatives.c
+                                label(for='c' + i)  c) #{questions[i].alternatives.c}
+                            else
+                                label(for='c' + i)
+                                    img(src=questions[i].alternatives.c_img)
+                        .alternative
+                            input(type='radio' name='question' + i value='d' id='d' + i)
+                            if questions[i].alternatives.d
+                                label(for='d' + i)  d) #{questions[i].alternatives.d}
+                            else
+                                label(for='d' + i)
+                                    img(src=questions[i].alternatives.d_img)
+                        div(  class='alternative'  Style="text-align:center "     )
+                            input( type='button'  name='agreement' onclick='mostrarsiguiente('+i+')'  Style="background:green;width:125.16px;height:35px; color:white;padding:9px;border:0px;text-align:center;margin:auto;"  value="Siguiente")
+
+
+
+
+            -i++
+        if !checking
+            button.btn-check Terminar Examen 
+        else
+            a(href="/").btn-check--home Inicio
+    script.
+
+        function mostrarsiguiente(n){
+
+
+           // alert('ya presono una alternatinva'+n);
+             var pregunta=document.getElementById(n);
+             pregunta.style.display="none";
+            var numerosiguiente=n+1;
+            //alert(numerosiguiente);
+            var preguntasiguinete=document.getElementById(numerosiguiente);
+             preguntasiguinete.style.display="block";
+        }
+        var chr = document.querySelector('.chronometer');
+        var questions = document.querySelector('.questions');
+        if(chr){
+            window.document.body.onscroll = function () {
+                if ((window.pageYOffset || document.documentElement.scrollTop) > 80) {
+                    chr.classList.add('chronometer--sticky');
+                    questions.style.marginTop = "80px";
+                } else {
+                    chr.classList.remove('chronometer--sticky');
+                    questions.style.marginTop = "0px";
+                }
+            }
+        }
+
