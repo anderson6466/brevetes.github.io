@@ -196,8 +196,8 @@ class CategoriesController{
 
     login(req, res, next){
  
-        var query ="select p.correo , f.descripcion as Categoria, e.descripcion from postulante  p inner  join  perfil f on f.idperfil=p.idestado "+
-        "inner join    estado e on e.idestado=p.idestado   where   p.idperfil !=2    and    correo ='"+req.body.user+"' and pass='"+req.body.password+"' ";
+        var query ="select p.correo , f.descripcion as Categoria, e.descripcion from   postulante  p inner  join  perfil f on f.idperfil=p.idperfil   "+
+        "inner join    estado e on e.idestado=p.idestado   where   p.idperfil !=4    and    correo ='"+req.body.user+"' and pass='"+req.body.password+"' ";
          
         let password = req.body.password;
         let category = req.body.category.toString();
