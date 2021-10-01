@@ -1,0 +1,4 @@
+User-agent: Google-Bot
+Allow: /
+
+Sitemap: https://diseim.tk:3000/sitemap.xml	
